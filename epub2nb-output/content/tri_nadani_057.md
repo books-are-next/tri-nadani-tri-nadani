@@ -1,0 +1,26 @@
+---
+title: ''
+contentType: prose
+---
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Autorem _Dvaceti_ _čtyř_ _básní_ _o_ _vlastnostech_ _malířských_ byl Huang Yue (Zuotian), příslušný do okresu Dangtu v dnešní středočínské provincii Anhui. Podle zachovaného životopisu Huang Yue záhy osiřel a byl vychováván v cizí rodině. Dostalo se mu však řádného vzdělání a už v okresní škole vynikal jako mimořádně nadaný student. Posléze také dosáhl nejvyšší hodnosti akademické (1791) a stal se čekatelem na důchodovém ministerstvu. Po krátké službě však rezignoval na svůj úřad a požádal o dovolení vrátit se do ústraní. Potom působil jako vychovatel. Ještě jednou nastoupil úřední kariéru. Dosáhl místa státního sekretáře, opět na důchodovém ministerstvu. V biografii se uvádí, že když zestárl, znovu požádal o uvolnění. Žil pak z nevelkého důchodu, ale dožil se vysokého věku. Zemřel, když mu bylo devadesát dva let. Jeho spisy čítají 40 svazků.
+
+K tomu jeden svazek Dvaceti čtyř básní o vlastnostech malířských (Ershisi hua pin). Sbírka básní inspirovaná věhlasným souborem básní o básnictví měla značný ohlas. Udává se, že vznikla kolem roku 1800. Huang Yue byl uznáván i jako malíř a kaligraf. Jako malíř se dostal i do císařských sbírek. Mezi milovníky a znalci malířství požíval mimořádné autority. Zpočátku mu byli vzorem ve své době populární krajinář Wang Hui (Shigu, 1632–1717) a neméně známý krajinář a malíř květinových zátiší Yun Shouping (Nantian, 1633–1690). Huang Yue v nich vidí ideál samotářské prostoty a uvolněnosti malířského projevu. K stáru se obrátil k mladšímu ze čtyř Wangů, k Wang Yuanqiovi (Lutai, 1642–1715), s jeho plnějším, robustnějším krajinářským projevem. Wang Yuanqi mu možná imponoval i jako teoretik, jako autor známé malířské poetiky _Zápisky_ _deštivého_ _okna_ (Yu chuang man bi).
+
+Huang Yue rád maloval květiny a v tomto oboru zejména proslul svými zátišími slivoně _meihua_. V témže žánru pokračoval i jeho syn Huang Chumin. Huang Yue svou malířskou poetikou parafrázoval básnickou poetiku Sikong Tuovu, k níž ovšem přidal některé specificky malířské kategorie. Nebyl příliš originální myslitel, spíše pokračoval v malířské ideji i praxi mingských (1279–1368 n. l.) eklektiků. Jeho básnická sbírka o vlastnostech malířských je ve svém oboru jedinečná a krásná.
+
+Téma první básně je pro celé uvažování o umění malířském tématem základním. Je to vlastně variace na první z šesti zákonů malířství, jak je zformoval kolem r. 490 n. l. sběratel, kritik a portrétista Xie He ve svém _Kritickém_ _katalogu_ _starších_ _malířů_ (Gu hua pin lu). Jeho text byl pozdějšími interprety posunut do postavení jakési zakládající listiny estetického kánonu čínského tušového malířství a dálněvýchodního malířství vůbec. U nás tento malířský zákoník zpopularizoval svým půvabným apokryfem _Testament_ _Mistra_ _Wu_ kritik Miroslav Míčko. V západních zemích koluje bezpočtu překladatelských a interpretačních variant těchto šesti zásad malířských. Tady je jedna z možných: „I když má malířství šestero přikázání, jen zřídka někdo dokázal jim být práv beze zbytku, většinou každý vynikne jen v části. Která že jsou to přikázání? První je ozvěna (rytmus) dechu, tvořící pohyb; druhá je metoda skeletu, řídící užívání štětce; třetí je vnímání předmětu, řídící symbolické ztvárnění; čtvrtá je druhová příslušnost, kterou se řídí barevnost; pátá je správná kompozice, kterou se řídí rozmístění; šestým je přenos, kterým se řídí kopírování.“ První přikázání bylo posléze vyzvednuto jako nejvyšší zákon i meta malířského umění. Je to vyšší princip tvořivého génia malby, kterému se — na rozdíl od všech ostatních — nelze naučit. To je také smysl druhého verše naší básně. Vdechnout malbě život, to jest pohyb, tím že ji nadáme ozvěnou toho rytmu, kterým dýchá sám život, příroda, svět — to je nadání, jež v sobě buď máme, nebo ne. — Vzápětí třetí verš parafrázuje jinou maximu tušové malby: „Idea předchází štětec.“ Tuto maximu vložili songští básníci a filosofové tušové malby do úst svému tangskému idolu, básníkovi a malíři Wang Weiovi (701–761 n. l.). — A konečně čtvrtý verš zde parafrázuje Sikong Tuovu klíčovou větu z jeho dopisu příteli: „… takový obraz za obrazem, krajina za krajinou, copak je snadné to vypsat slovy?…“ Je to jeden z nejznámějších a nejvlivnějších paradoxů čínského estetického myšlení.

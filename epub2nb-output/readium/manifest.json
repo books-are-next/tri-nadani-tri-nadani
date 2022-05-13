@@ -1,0 +1,992 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Tři nadání",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "O. Král a K. Šiktanc (překlad)",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2020-06-11T00:00:00.000Z",
+    "published": "2020-06-11T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_134.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_135.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_136.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_137.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_138.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_139.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_140.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_141.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_142.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_143.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_144.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_145.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_146.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_147.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_148.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_149.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_150.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_151.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_152.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_153.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_154.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_155.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/tri_nadani_156.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/tri_nadani_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_tri_nadani_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/tri_nadani_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Poznámka k překladu",
+      "href": "OEBPS/Text/tri_nadani_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "SIKONG TU Dvacet čtyři básní o vlastnostech básnických",
+      "children": [
+        {
+          "title": "1. Majestátní úplnost",
+          "href": "OEBPS/Text/tri_nadani_009.xhtml#toc_marker-3"
+        },
+        {
+          "title": "2. Smírná odtažitost",
+          "href": "OEBPS/Text/tri_nadani_011.xhtml#toc_marker-4"
+        },
+        {
+          "title": "3. Pestrost a kyprost",
+          "href": "OEBPS/Text/tri_nadani_013.xhtml#toc_marker-5"
+        },
+        {
+          "title": "4. Sebevědomá pohrouženost",
+          "href": "OEBPS/Text/tri_nadani_015.xhtml#toc_marker-6"
+        },
+        {
+          "title": "5. Vznešená starobylost",
+          "href": "OEBPS/Text/tri_nadani_017.xhtml#toc_marker-7"
+        },
+        {
+          "title": "6. Klasická krása",
+          "href": "OEBPS/Text/tri_nadani_019.xhtml#toc_marker-8"
+        },
+        {
+          "title": "7. Ryzost",
+          "href": "OEBPS/Text/tri_nadani_021.xhtml#toc_marker-9"
+        },
+        {
+          "title": "8. Mocná síla",
+          "href": "OEBPS/Text/tri_nadani_023.xhtml#toc_marker-10"
+        },
+        {
+          "title": "9. Zdobná sličnost",
+          "href": "OEBPS/Text/tri_nadani_025.xhtml#toc_marker-11"
+        },
+        {
+          "title": "10. Sama přirozenost",
+          "href": "OEBPS/Text/tri_nadani_027.xhtml#toc_marker-12"
+        },
+        {
+          "title": "11. Zdrženlivost",
+          "href": "OEBPS/Text/tri_nadani_029.xhtml#toc_marker-13"
+        },
+        {
+          "title": "12. Nespoutanost",
+          "href": "OEBPS/Text/tri_nadani_031.xhtml#toc_marker-14"
+        },
+        {
+          "title": "13. Duše a podstata",
+          "href": "OEBPS/Text/tri_nadani_033.xhtml#toc_marker-15"
+        },
+        {
+          "title": "14. Předivo jemnosti",
+          "href": "OEBPS/Text/tri_nadani_035.xhtml#toc_marker-16"
+        },
+        {
+          "title": "15. Bezstarostná prostota",
+          "href": "OEBPS/Text/tri_nadani_037.xhtml#toc_marker-17"
+        },
+        {
+          "title": "16. Jasná výjimečnost",
+          "href": "OEBPS/Text/tri_nadani_039.xhtml#toc_marker-18"
+        },
+        {
+          "title": "17. Proměnlivost",
+          "href": "OEBPS/Text/tri_nadani_041.xhtml#toc_marker-19"
+        },
+        {
+          "title": "18. Skutečnost",
+          "href": "OEBPS/Text/tri_nadani_043.xhtml#toc_marker-20"
+        },
+        {
+          "title": "19. Smutek",
+          "href": "OEBPS/Text/tri_nadani_045.xhtml#toc_marker-21"
+        },
+        {
+          "title": "20. Obraznost",
+          "href": "OEBPS/Text/tri_nadani_047.xhtml#toc_marker-22"
+        },
+        {
+          "title": "21. Překračování",
+          "href": "OEBPS/Text/tri_nadani_049.xhtml#toc_marker-23"
+        },
+        {
+          "title": "22. Plynutí",
+          "href": "OEBPS/Text/tri_nadani_051.xhtml#toc_marker-24"
+        },
+        {
+          "title": "23. Nadhled",
+          "href": "OEBPS/Text/tri_nadani_053.xhtml#toc_marker-25"
+        },
+        {
+          "title": "24. Pomíjivost",
+          "href": "OEBPS/Text/tri_nadani_055.xhtml#toc_marker-26"
+        }
+      ],
+      "href": "OEBPS/Text/tri_nadani_007.xhtml#toc_marker-2-1"
+    },
+    {
+      "title": "HUANG YUE Dvacet čtyři básní o vlastnostech malířských",
+      "children": [
+        {
+          "title": "1. Ozvěna dechu",
+          "href": "OEBPS/Text/tri_nadani_058.xhtml#toc_marker-27"
+        },
+        {
+          "title": "2. Oduševnělé mistrovství",
+          "href": "OEBPS/Text/tri_nadani_060.xhtml#toc_marker-28"
+        },
+        {
+          "title": "3. Vznešená starobylost",
+          "href": "OEBPS/Text/tri_nadani_062.xhtml#toc_marker-29"
+        },
+        {
+          "title": "4. Blankyt a vláha",
+          "href": "OEBPS/Text/tri_nadani_064.xhtml#toc_marker-30"
+        },
+        {
+          "title": "5. Majestát síly",
+          "href": "OEBPS/Text/tri_nadani_066.xhtml#toc_marker-31"
+        },
+        {
+          "title": "6. Harmonie",
+          "href": "OEBPS/Text/tri_nadani_068.xhtml#toc_marker-32"
+        },
+        {
+          "title": "7. Tiché ústraní",
+          "href": "OEBPS/Text/tri_nadani_070.xhtml#toc_marker-33"
+        },
+        {
+          "title": "8. Původní prostota",
+          "href": "OEBPS/Text/tri_nadani_072.xhtml#toc_marker-34"
+        },
+        {
+          "title": "9. Transcendence",
+          "href": "OEBPS/Text/tri_nadani_074.xhtml#toc_marker-35"
+        },
+        {
+          "title": "10. Podivuhodné otevření",
+          "href": "OEBPS/Text/tri_nadani_076.xhtml#toc_marker-36"
+        },
+        {
+          "title": "11. Souřadnice",
+          "href": "OEBPS/Text/tri_nadani_078.xhtml#toc_marker-37"
+        },
+        {
+          "title": "12. Svlaženost",
+          "href": "OEBPS/Text/tri_nadani_080.xhtml#toc_marker-38"
+        },
+        {
+          "title": "13. Odříkání",
+          "href": "OEBPS/Text/tri_nadani_082.xhtml#toc_marker-39"
+        },
+        {
+          "title": "14. Čisté dálky",
+          "href": "OEBPS/Text/tri_nadani_084.xhtml#toc_marker-40"
+        },
+        {
+          "title": "15. Přirozené oduševnění",
+          "href": "OEBPS/Text/tri_nadani_086.xhtml#toc_marker-41"
+        },
+        {
+          "title": "16. Okrouhlá úplnost",
+          "href": "OEBPS/Text/tri_nadani_088.xhtml#toc_marker-42"
+        },
+        {
+          "title": "17. Tajemná hlubina",
+          "href": "OEBPS/Text/tri_nadani_090.xhtml#toc_marker-43"
+        },
+        {
+          "title": "18. Jasná čistota",
+          "href": "OEBPS/Text/tri_nadani_092.xhtml#toc_marker-44"
+        },
+        {
+          "title": "19. Mocné vytasení",
+          "href": "OEBPS/Text/tri_nadani_094.xhtml#toc_marker-45"
+        },
+        {
+          "title": "20. Úsporná čistota",
+          "href": "OEBPS/Text/tri_nadani_096.xhtml#toc_marker-46"
+        },
+        {
+          "title": "21. Pozorná přičinlivost",
+          "href": "OEBPS/Text/tri_nadani_098.xhtml#toc_marker-47"
+        },
+        {
+          "title": "22. Neohrožená pohotovost",
+          "href": "OEBPS/Text/tri_nadani_100.xhtml#toc_marker-48"
+        },
+        {
+          "title": "23. Vyprázdněné oduševnění",
+          "href": "OEBPS/Text/tri_nadani_102.xhtml#toc_marker-49"
+        },
+        {
+          "title": "24. Oslnivý půvab",
+          "href": "OEBPS/Text/tri_nadani_104.xhtml#toc_marker-50"
+        }
+      ],
+      "href": "OEBPS/Text/tri_nadani_056.xhtml#toc_marker-26-1"
+    },
+    {
+      "title": "YANG JINGZENG Dvacet čtyři básní o vlastnostech kaligrafických",
+      "children": [
+        {
+          "title": "1. Ozvěna ducha",
+          "href": "OEBPS/Text/tri_nadani_107.xhtml#toc_marker-51"
+        },
+        {
+          "title": "2. Starobylá krása",
+          "href": "OEBPS/Text/tri_nadani_109.xhtml#toc_marker-52"
+        },
+        {
+          "title": "3. Živelnost",
+          "href": "OEBPS/Text/tri_nadani_111.xhtml#toc_marker-53"
+        },
+        {
+          "title": "4. Mocný vzmach",
+          "href": "OEBPS/Text/tri_nadani_113.xhtml#toc_marker-54"
+        },
+        {
+          "title": "5. Čest a sláva",
+          "href": "OEBPS/Text/tri_nadani_115.xhtml#toc_marker-55"
+        },
+        {
+          "title": "6. Oproštění",
+          "href": "OEBPS/Text/tri_nadani_117.xhtml#toc_marker-56"
+        },
+        {
+          "title": "7. Velká tavba",
+          "href": "OEBPS/Text/tri_nadani_119.xhtml#toc_marker-57"
+        },
+        {
+          "title": "8. Rázné vytasení",
+          "href": "OEBPS/Text/tri_nadani_121.xhtml#toc_marker-58"
+        },
+        {
+          "title": "9. Pozorná vážnost",
+          "href": "OEBPS/Text/tri_nadani_123.xhtml#toc_marker-59"
+        },
+        {
+          "title": "10. Nenucený půvab",
+          "href": "OEBPS/Text/tri_nadani_125.xhtml#toc_marker-60"
+        },
+        {
+          "title": "11. Úplnost nevysloveného",
+          "href": "OEBPS/Text/tri_nadani_127.xhtml#toc_marker-61"
+        },
+        {
+          "title": "12. Tichá povznesenost",
+          "href": "OEBPS/Text/tri_nadani_129.xhtml#toc_marker-62"
+        },
+        {
+          "title": "13. Řemeslná jemnost",
+          "href": "OEBPS/Text/tri_nadani_131.xhtml#toc_marker-63"
+        },
+        {
+          "title": "14. Proměny",
+          "href": "OEBPS/Text/tri_nadani_133.xhtml#toc_marker-64"
+        },
+        {
+          "title": "15. Bez zábran",
+          "href": "OEBPS/Text/tri_nadani_135.xhtml#toc_marker-65"
+        },
+        {
+          "title": "16. Smysl pro rytmus",
+          "href": "OEBPS/Text/tri_nadani_137.xhtml#toc_marker-66"
+        },
+        {
+          "title": "17. Vzdušný tanec",
+          "href": "OEBPS/Text/tri_nadani_139.xhtml#toc_marker-67"
+        },
+        {
+          "title": "18. Vzdalování",
+          "href": "OEBPS/Text/tri_nadani_141.xhtml#toc_marker-68"
+        },
+        {
+          "title": "19. Útlá křehkost",
+          "href": "OEBPS/Text/tri_nadani_143.xhtml#toc_marker-69"
+        },
+        {
+          "title": "20. Okrouhlá plnost",
+          "href": "OEBPS/Text/tri_nadani_145.xhtml#toc_marker-70"
+        },
+        {
+          "title": "21. Podivuhodná závrať",
+          "href": "OEBPS/Text/tri_nadani_147.xhtml#toc_marker-71"
+        },
+        {
+          "title": "22. Rovnováha",
+          "href": "OEBPS/Text/tri_nadani_149.xhtml#toc_marker-72"
+        },
+        {
+          "title": "23. Velkorysost",
+          "href": "OEBPS/Text/tri_nadani_151.xhtml#toc_marker-73"
+        },
+        {
+          "title": "24. Svůdnost",
+          "href": "OEBPS/Text/tri_nadani_153.xhtml#toc_marker-74"
+        }
+      ],
+      "href": "OEBPS/Text/tri_nadani_105.xhtml#toc_marker-50-1"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/tri_nadani_154.xhtml#toc_marker-75"
+    },
+    {
+      "title": "Zápis a výslovnost čínských slov",
+      "href": "OEBPS/Text/tri_nadani_155.xhtml#toc_marker-76"
+    }
+  ]
+}

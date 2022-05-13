@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tři nadání</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/tri_nadani_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Poznámka k překladu</text>
+      </navLabel>
+      <content src="Text/tri_nadani_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>SIKONG TU Dvacet čtyři básní o vlastnostech básnických</text>
+      </navLabel>
+      <content src="Text/tri_nadani_007.xhtml#toc_marker-2-1"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>1. Majestátní úplnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_009.xhtml#toc_marker-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>2. Smírná odtažitost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_011.xhtml#toc_marker-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>3. Pestrost a kyprost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_013.xhtml#toc_marker-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>4. Sebevědomá pohrouženost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_015.xhtml#toc_marker-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>5. Vznešená starobylost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_017.xhtml#toc_marker-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>6. Klasická krása</text>
+        </navLabel>
+        <content src="Text/tri_nadani_019.xhtml#toc_marker-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>7. Ryzost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_021.xhtml#toc_marker-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>8. Mocná síla</text>
+        </navLabel>
+        <content src="Text/tri_nadani_023.xhtml#toc_marker-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>9. Zdobná sličnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_025.xhtml#toc_marker-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>10. Sama přirozenost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_027.xhtml#toc_marker-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>11. Zdrženlivost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_029.xhtml#toc_marker-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>12. Nespoutanost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_031.xhtml#toc_marker-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>13. Duše a podstata</text>
+        </navLabel>
+        <content src="Text/tri_nadani_033.xhtml#toc_marker-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>14. Předivo jemnosti</text>
+        </navLabel>
+        <content src="Text/tri_nadani_035.xhtml#toc_marker-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>15. Bezstarostná prostota</text>
+        </navLabel>
+        <content src="Text/tri_nadani_037.xhtml#toc_marker-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>16. Jasná výjimečnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_039.xhtml#toc_marker-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>17. Proměnlivost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_041.xhtml#toc_marker-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>18. Skutečnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_043.xhtml#toc_marker-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>19. Smutek</text>
+        </navLabel>
+        <content src="Text/tri_nadani_045.xhtml#toc_marker-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>20. Obraznost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_047.xhtml#toc_marker-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>21. Překračování</text>
+        </navLabel>
+        <content src="Text/tri_nadani_049.xhtml#toc_marker-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>22. Plynutí</text>
+        </navLabel>
+        <content src="Text/tri_nadani_051.xhtml#toc_marker-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>23. Nadhled</text>
+        </navLabel>
+        <content src="Text/tri_nadani_053.xhtml#toc_marker-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>24. Pomíjivost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_055.xhtml#toc_marker-26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>HUANG YUE Dvacet čtyři básní o vlastnostech malířských</text>
+      </navLabel>
+      <content src="Text/tri_nadani_056.xhtml#toc_marker-26-1"/>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>1. Ozvěna dechu</text>
+        </navLabel>
+        <content src="Text/tri_nadani_058.xhtml#toc_marker-27"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>2. Oduševnělé mistrovství</text>
+        </navLabel>
+        <content src="Text/tri_nadani_060.xhtml#toc_marker-28"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>3. Vznešená starobylost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_062.xhtml#toc_marker-29"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>4. Blankyt a vláha</text>
+        </navLabel>
+        <content src="Text/tri_nadani_064.xhtml#toc_marker-30"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>5. Majestát síly</text>
+        </navLabel>
+        <content src="Text/tri_nadani_066.xhtml#toc_marker-31"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>6. Harmonie</text>
+        </navLabel>
+        <content src="Text/tri_nadani_068.xhtml#toc_marker-32"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>7. Tiché ústraní</text>
+        </navLabel>
+        <content src="Text/tri_nadani_070.xhtml#toc_marker-33"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>8. Původní prostota</text>
+        </navLabel>
+        <content src="Text/tri_nadani_072.xhtml#toc_marker-34"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>9. Transcendence</text>
+        </navLabel>
+        <content src="Text/tri_nadani_074.xhtml#toc_marker-35"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>10. Podivuhodné otevření</text>
+        </navLabel>
+        <content src="Text/tri_nadani_076.xhtml#toc_marker-36"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>11. Souřadnice</text>
+        </navLabel>
+        <content src="Text/tri_nadani_078.xhtml#toc_marker-37"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>12. Svlaženost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_080.xhtml#toc_marker-38"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>13. Odříkání</text>
+        </navLabel>
+        <content src="Text/tri_nadani_082.xhtml#toc_marker-39"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>14. Čisté dálky</text>
+        </navLabel>
+        <content src="Text/tri_nadani_084.xhtml#toc_marker-40"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>15. Přirozené oduševnění</text>
+        </navLabel>
+        <content src="Text/tri_nadani_086.xhtml#toc_marker-41"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>16. Okrouhlá úplnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_088.xhtml#toc_marker-42"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>17. Tajemná hlubina</text>
+        </navLabel>
+        <content src="Text/tri_nadani_090.xhtml#toc_marker-43"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>18. Jasná čistota</text>
+        </navLabel>
+        <content src="Text/tri_nadani_092.xhtml#toc_marker-44"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>19. Mocné vytasení</text>
+        </navLabel>
+        <content src="Text/tri_nadani_094.xhtml#toc_marker-45"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>20. Úsporná čistota</text>
+        </navLabel>
+        <content src="Text/tri_nadani_096.xhtml#toc_marker-46"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>21. Pozorná přičinlivost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_098.xhtml#toc_marker-47"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>22. Neohrožená pohotovost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_100.xhtml#toc_marker-48"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>23. Vyprázdněné oduševnění</text>
+        </navLabel>
+        <content src="Text/tri_nadani_102.xhtml#toc_marker-49"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>24. Oslnivý půvab</text>
+        </navLabel>
+        <content src="Text/tri_nadani_104.xhtml#toc_marker-50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>YANG JINGZENG Dvacet čtyři básní o vlastnostech kaligrafických</text>
+      </navLabel>
+      <content src="Text/tri_nadani_105.xhtml#toc_marker-50-1"/>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>1. Ozvěna ducha</text>
+        </navLabel>
+        <content src="Text/tri_nadani_107.xhtml#toc_marker-51"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>2. Starobylá krása</text>
+        </navLabel>
+        <content src="Text/tri_nadani_109.xhtml#toc_marker-52"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>3. Živelnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_111.xhtml#toc_marker-53"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>4. Mocný vzmach</text>
+        </navLabel>
+        <content src="Text/tri_nadani_113.xhtml#toc_marker-54"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>5. Čest a sláva</text>
+        </navLabel>
+        <content src="Text/tri_nadani_115.xhtml#toc_marker-55"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>6. Oproštění</text>
+        </navLabel>
+        <content src="Text/tri_nadani_117.xhtml#toc_marker-56"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>7. Velká tavba</text>
+        </navLabel>
+        <content src="Text/tri_nadani_119.xhtml#toc_marker-57"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>8. Rázné vytasení</text>
+        </navLabel>
+        <content src="Text/tri_nadani_121.xhtml#toc_marker-58"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>9. Pozorná vážnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_123.xhtml#toc_marker-59"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>10. Nenucený půvab</text>
+        </navLabel>
+        <content src="Text/tri_nadani_125.xhtml#toc_marker-60"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>11. Úplnost nevysloveného</text>
+        </navLabel>
+        <content src="Text/tri_nadani_127.xhtml#toc_marker-61"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>12. Tichá povznesenost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_129.xhtml#toc_marker-62"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>13. Řemeslná jemnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_131.xhtml#toc_marker-63"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>14. Proměny</text>
+        </navLabel>
+        <content src="Text/tri_nadani_133.xhtml#toc_marker-64"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>15. Bez zábran</text>
+        </navLabel>
+        <content src="Text/tri_nadani_135.xhtml#toc_marker-65"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>16. Smysl pro rytmus</text>
+        </navLabel>
+        <content src="Text/tri_nadani_137.xhtml#toc_marker-66"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>17. Vzdušný tanec</text>
+        </navLabel>
+        <content src="Text/tri_nadani_139.xhtml#toc_marker-67"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>18. Vzdalování</text>
+        </navLabel>
+        <content src="Text/tri_nadani_141.xhtml#toc_marker-68"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>19. Útlá křehkost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_143.xhtml#toc_marker-69"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>20. Okrouhlá plnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_145.xhtml#toc_marker-70"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>21. Podivuhodná závrať</text>
+        </navLabel>
+        <content src="Text/tri_nadani_147.xhtml#toc_marker-71"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>22. Rovnováha</text>
+        </navLabel>
+        <content src="Text/tri_nadani_149.xhtml#toc_marker-72"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>23. Velkorysost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_151.xhtml#toc_marker-73"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>24. Svůdnost</text>
+        </navLabel>
+        <content src="Text/tri_nadani_153.xhtml#toc_marker-74"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/tri_nadani_154.xhtml#toc_marker-75"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Zápis a výslovnost čínských slov</text>
+      </navLabel>
+      <content src="Text/tri_nadani_155.xhtml#toc_marker-76"/>
+    </navPoint>
+  </navMap>
+</ncx>

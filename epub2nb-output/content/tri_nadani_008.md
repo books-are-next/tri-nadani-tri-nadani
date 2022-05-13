@@ -1,0 +1,28 @@
+---
+title: ''
+contentType: prose
+---
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Sikong Tu (Biaosheng, 837–908), autor této sbírky básní o básnění, o kategoriích umění básnického i vlastnostech básníků, byl sám jedním z největších básníků pozdních Tangů. Vzdor jeho básnickému věhlasu v dějinách čínské literatury žije především jako autor této jedinečné poetiky básnictví. Biografie je sporá. Pocházel nejspíš ze středočínské provincie Anhui a jeho rodina patřila k vybraným rodinám s dlouhou hodnostářskou a vzdělaneckou tradicí. Sám autor prošel úspěšně nejvyšším stupněm císařských akademických zkoušek v roce 869. Bylo mu právě 32 let. Jeho kariéra však neměla dlouhé trvání. Doba byla nestálá. Sikong Tu se stáhl na svůj statek v horách Zhongtiao. V předmluvě ke svým spisům považuje za nutné vysvětlovat svůj odchod nemožností realizovat své společenské ambice a politické představy; zřejmé reziduum konfuciánské výchovy.
+
+Sikong Tu se obrací k buddhismu a k taoismu. Tato učení ho inspirují v tvorbě, v nich nachází zdroje své estetiky. Výmluvná jsou i jména básníků, s nimiž se cítil spřízněn: básník návratů Tao Yuanming (365–427 n. l.), meditativní Wang Wei (701–761 n. l.), melancholický Wei Yingwu (737–792 n. l.), básníci ticha a pravdivosti niterné.
+
+Sikong Tu pokračoval v linii poetik, jež stejným pojmem _pin_ označovaly kategorie básníků ve smyslu jejich osobních charakteristik, hodnocení a třídění. Byly to vlastně původně kritické katalogy básníků anebo malířů, z nichž pro nás nejvýznamnější zůstaly krátké úvodní texty. Autoři těchto katalogů byli zřejmě povinni stanovit a vysvětlit kritéria, a tak, vlastně mimoděk, formulovali duchovní hodnoty a estetické funkce básnictví či malířství závazné jak pro tvůrce, tak pro ně jako kritiky. Tak vznikly některé základní teoretické texty v Číně. Pro básnictví to byly Zhong Rongovy _Kategorie_ _básníků_ (Shi pin), dokončené po r. 518 n. l.; pro malířství to byl _Kritický_ _katalog_ _starších_ _malířů_ (Gu hua pin lu), sepsaný kolem r. 490 n. l. Sikong Tu dal tomuto zavedenému termínu radikálně jiný význam. Chápe kategorie básnictví jako zvláštní aspekty tvorby a vlastnosti tvůrců. Nezajímají jej jednotlivá díla a jejich autoři, zajímá ho básnění samo, v centru jeho pozornosti stojí událost básně, dění smyslu; úhrnem — zkoumá, jak se naplňuje moderní idea poetická. Nepíše veršovanou poetiku, ale píše básně, jež vlastnosti básníků a principy básnění netoliko popisují, ale také básnicky reprezentují. Jeho básnická forma je archaická, dikce až enigmaticky strohá, obrazovost intenzívní.
+
+Datum Sikong Tuovy smrti se kryje s koncem dynastie Tangů. Po zprávě o zavraždění posledního legitimního císaře a násilné uzurpaci trůnu prý Sikong Tu přestal přijímat potravu a z vlastní vůle ukrátil svůj život. Básní taoista, konfuciánec smrtí. Číňané vždycky ctili žánr. Jejich postoj k světu byl veskrz poetický, veskrz estetický.
+
+První dvě básně jsou vesměs považovány za nej­zdařilejší čísla sbírky. Jejich obraznost je totiž prosta obvyklého množství klišé a citací příznačných pro mnoho básní jiných. — Úvodní báseň vykazuje výrazné shody s taoistickou filosofií a estetikou: „Vezmi svou neklidnou duši a obejmi všechno v jediném a nic vás nerozdělí.“ (Laozi) Autor zdůrazňuje niterné zdroje tajemné síly, kterou disponuje báseň, podtrhuje hlubinnou povahu její transcendence, vše přesahující, vše zahrnující. — Účel (funkce) zde stojí v opozici k tělu (struktuře, tvaru); mějme však na paměti, že v čínském duchovním prostředí jsou všechny opozice zásadně komplementární (verše 1–2), protiklady se nevylučují, nýbrž doplňují. — Prázdno (3) je vždy nějak pozitivní; zdrojem života není bytí (spíše jsoucno), leč nebytí (_wu_). A předpokladem jeho nazření je vyprázdnění (_kong_). — K čemu je dobré se vracet? Pohybem Cesty je pohyb zpátky, návrat od plného k prázdnému, od jsoucna k bytí, od bytí k nebytí. (3) — Deset tisíc věcí (5) je veškerenstvo, jež tvoří ono jsoucno, jehož je Cesta (_Dao_) matkou. Přečtěte si _Starého_ _mistra_ (Laozi), aspoň jeho první kapitolu. — Slovesa mají v této básni zvláštní sílu a význam: vracet se, křížit, překračovat, nahmátnout (dosáhnout), pozdvihnout. Všechno je pohyb, je energie — a o tom je síla imaginace. — Klíčová estetická formule: záobrazí, zásloví (9). — Klíčová filosofická formule: „v kruhu nahmátnouti střed“ (10); formule _Mistra_ _Zhuanga_. V tom středu je ta síla, která je zdrojem všech proměn; v tom středu je to dosud nerozlišené, to všeobsahující a tedy všeobjímající.
