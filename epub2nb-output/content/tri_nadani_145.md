@@ -1,19 +1,21 @@
 ---
-title: ''
+title: "20\\.\_Okrouhlá plnost"
 contentType: prose
 ---
-
-20. Okrouhlá plnost
 
 _Vlaštovka se vznáší — jak jí nezávidět?  
 Mít tu lehkost ruka   roztancuje se  
 Jak je krásný něžný nefrit na náramku  
 Něžnost   jež na sobě nic už nesnese_
 
+  
+
 _Zlatým pásem kamélie spjaty  
 Červený kruh máků obepíná lán  
 Olověná bělost císařovým dámám  
 „Kotel“ pro císaře chladně nablýskán_
+
+  
 
 _Někdo přehodí si brokátové roucho  
 Květ omamnou vůní   dáví se a žhne  

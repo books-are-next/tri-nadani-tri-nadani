@@ -8,4 +8,4 @@ Tři nadání
 3 ⨯ 24 starých básní  
 o básnictví, malířství a kaligrafii
 
-Přeložili Oldřich Král a Karel Šiktanc
+_Přeložili Oldřich Král a Karel Šiktanc_

@@ -1,10 +1,6 @@
 ---
-title: ''
+title: "Huang Yue\_Dvacet čtyři básnío\_vlastnostechmalířských"
 contentType: prose
 ---
 
-Huang Yue  
-   
-Dvacet čtyři básní  
-o vlastnostech  
-malířských
+

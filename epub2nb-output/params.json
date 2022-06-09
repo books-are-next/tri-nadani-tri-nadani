@@ -8,21 +8,23 @@
       "modified": "2020-06-11T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -1797,7 +1799,7 @@
         "xhtml": "tri_nadani_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sikong Tu Dvacet čtyři básnío vlastnostechbásnických",
         "subtitleSuggest": "",
         "filename": "tri_nadani_007.md",
         "xhtml": "tri_nadani_007.xhtml"
@@ -1809,7 +1811,7 @@
         "xhtml": "tri_nadani_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1\\. Majestátní úplnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_009.md",
         "xhtml": "tri_nadani_009.xhtml"
@@ -1821,7 +1823,7 @@
         "xhtml": "tri_nadani_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2\\. Smírná odtažitost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_011.md",
         "xhtml": "tri_nadani_011.xhtml"
@@ -1833,7 +1835,7 @@
         "xhtml": "tri_nadani_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3\\. Pestrost a kyprost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_013.md",
         "xhtml": "tri_nadani_013.xhtml"
@@ -1845,7 +1847,7 @@
         "xhtml": "tri_nadani_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4\\. Sebevědomá pohrouženost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_015.md",
         "xhtml": "tri_nadani_015.xhtml"
@@ -1857,7 +1859,7 @@
         "xhtml": "tri_nadani_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5\\. Vznešená starobylost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_017.md",
         "xhtml": "tri_nadani_017.xhtml"
@@ -1869,7 +1871,7 @@
         "xhtml": "tri_nadani_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6\\. Klasická krása ",
         "subtitleSuggest": "",
         "filename": "tri_nadani_019.md",
         "xhtml": "tri_nadani_019.xhtml"
@@ -1881,7 +1883,7 @@
         "xhtml": "tri_nadani_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7\\. Ryzost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_021.md",
         "xhtml": "tri_nadani_021.xhtml"
@@ -1893,7 +1895,7 @@
         "xhtml": "tri_nadani_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8\\. Mocná síla",
         "subtitleSuggest": "",
         "filename": "tri_nadani_023.md",
         "xhtml": "tri_nadani_023.xhtml"
@@ -1905,7 +1907,7 @@
         "xhtml": "tri_nadani_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9\\. Zdobná sličnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_025.md",
         "xhtml": "tri_nadani_025.xhtml"
@@ -1917,7 +1919,7 @@
         "xhtml": "tri_nadani_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10\\. Sama přirozenost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_027.md",
         "xhtml": "tri_nadani_027.xhtml"
@@ -1929,7 +1931,7 @@
         "xhtml": "tri_nadani_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11\\. Zdrženlivost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_029.md",
         "xhtml": "tri_nadani_029.xhtml"
@@ -1941,7 +1943,7 @@
         "xhtml": "tri_nadani_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12\\. Nespoutanost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_031.md",
         "xhtml": "tri_nadani_031.xhtml"
@@ -1953,7 +1955,7 @@
         "xhtml": "tri_nadani_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13\\. Duše a podstata",
         "subtitleSuggest": "",
         "filename": "tri_nadani_033.md",
         "xhtml": "tri_nadani_033.xhtml"
@@ -1965,7 +1967,7 @@
         "xhtml": "tri_nadani_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14\\. Předivo jemnosti",
         "subtitleSuggest": "",
         "filename": "tri_nadani_035.md",
         "xhtml": "tri_nadani_035.xhtml"
@@ -1977,7 +1979,7 @@
         "xhtml": "tri_nadani_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15\\. Bezstarostná prostota",
         "subtitleSuggest": "",
         "filename": "tri_nadani_037.md",
         "xhtml": "tri_nadani_037.xhtml"
@@ -1989,7 +1991,7 @@
         "xhtml": "tri_nadani_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16\\. Jasná výjimečnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_039.md",
         "xhtml": "tri_nadani_039.xhtml"
@@ -2001,7 +2003,7 @@
         "xhtml": "tri_nadani_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17\\. Proměnlivost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_041.md",
         "xhtml": "tri_nadani_041.xhtml"
@@ -2013,7 +2015,7 @@
         "xhtml": "tri_nadani_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18\\. Skutečnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_043.md",
         "xhtml": "tri_nadani_043.xhtml"
@@ -2025,7 +2027,7 @@
         "xhtml": "tri_nadani_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19\\. Smutek",
         "subtitleSuggest": "",
         "filename": "tri_nadani_045.md",
         "xhtml": "tri_nadani_045.xhtml"
@@ -2037,7 +2039,7 @@
         "xhtml": "tri_nadani_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20\\. Obraznost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_047.md",
         "xhtml": "tri_nadani_047.xhtml"
@@ -2049,7 +2051,7 @@
         "xhtml": "tri_nadani_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21\\. Překračování",
         "subtitleSuggest": "",
         "filename": "tri_nadani_049.md",
         "xhtml": "tri_nadani_049.xhtml"
@@ -2061,7 +2063,7 @@
         "xhtml": "tri_nadani_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22\\. Plynutí",
         "subtitleSuggest": "",
         "filename": "tri_nadani_051.md",
         "xhtml": "tri_nadani_051.xhtml"
@@ -2073,7 +2075,7 @@
         "xhtml": "tri_nadani_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23\\. Nadhled",
         "subtitleSuggest": "",
         "filename": "tri_nadani_053.md",
         "xhtml": "tri_nadani_053.xhtml"
@@ -2085,13 +2087,13 @@
         "xhtml": "tri_nadani_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24\\. Pomíjivost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_055.md",
         "xhtml": "tri_nadani_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Huang Yue Dvacet čtyři básnío vlastnostechmalířských",
         "subtitleSuggest": "",
         "filename": "tri_nadani_056.md",
         "xhtml": "tri_nadani_056.xhtml"
@@ -2103,7 +2105,7 @@
         "xhtml": "tri_nadani_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1\\. Ozvěna dechu",
         "subtitleSuggest": "",
         "filename": "tri_nadani_058.md",
         "xhtml": "tri_nadani_058.xhtml"
@@ -2115,7 +2117,7 @@
         "xhtml": "tri_nadani_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2\\. Oduševnělé mistrovství",
         "subtitleSuggest": "",
         "filename": "tri_nadani_060.md",
         "xhtml": "tri_nadani_060.xhtml"
@@ -2127,7 +2129,7 @@
         "xhtml": "tri_nadani_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3\\. Vznešená starobylost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_062.md",
         "xhtml": "tri_nadani_062.xhtml"
@@ -2139,7 +2141,7 @@
         "xhtml": "tri_nadani_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4\\. Blankyt a vláha",
         "subtitleSuggest": "",
         "filename": "tri_nadani_064.md",
         "xhtml": "tri_nadani_064.xhtml"
@@ -2151,7 +2153,7 @@
         "xhtml": "tri_nadani_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5\\. Majestát síly",
         "subtitleSuggest": "",
         "filename": "tri_nadani_066.md",
         "xhtml": "tri_nadani_066.xhtml"
@@ -2163,7 +2165,7 @@
         "xhtml": "tri_nadani_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6\\. Harmonie",
         "subtitleSuggest": "",
         "filename": "tri_nadani_068.md",
         "xhtml": "tri_nadani_068.xhtml"
@@ -2175,7 +2177,7 @@
         "xhtml": "tri_nadani_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7\\. Tiché ústraní",
         "subtitleSuggest": "",
         "filename": "tri_nadani_070.md",
         "xhtml": "tri_nadani_070.xhtml"
@@ -2187,7 +2189,7 @@
         "xhtml": "tri_nadani_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8\\. Původní prostota",
         "subtitleSuggest": "",
         "filename": "tri_nadani_072.md",
         "xhtml": "tri_nadani_072.xhtml"
@@ -2199,7 +2201,7 @@
         "xhtml": "tri_nadani_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9\\. Transcendence",
         "subtitleSuggest": "",
         "filename": "tri_nadani_074.md",
         "xhtml": "tri_nadani_074.xhtml"
@@ -2211,7 +2213,7 @@
         "xhtml": "tri_nadani_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10\\. Podivuhodné otevření",
         "subtitleSuggest": "",
         "filename": "tri_nadani_076.md",
         "xhtml": "tri_nadani_076.xhtml"
@@ -2223,7 +2225,7 @@
         "xhtml": "tri_nadani_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11\\. Souřadnice",
         "subtitleSuggest": "",
         "filename": "tri_nadani_078.md",
         "xhtml": "tri_nadani_078.xhtml"
@@ -2235,7 +2237,7 @@
         "xhtml": "tri_nadani_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12\\. Svlaženost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_080.md",
         "xhtml": "tri_nadani_080.xhtml"
@@ -2247,7 +2249,7 @@
         "xhtml": "tri_nadani_081.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13\\. Odříkání",
         "subtitleSuggest": "",
         "filename": "tri_nadani_082.md",
         "xhtml": "tri_nadani_082.xhtml"
@@ -2259,7 +2261,7 @@
         "xhtml": "tri_nadani_083.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14\\. Čisté dálky",
         "subtitleSuggest": "",
         "filename": "tri_nadani_084.md",
         "xhtml": "tri_nadani_084.xhtml"
@@ -2271,7 +2273,7 @@
         "xhtml": "tri_nadani_085.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15\\. Přirozené oduševnění",
         "subtitleSuggest": "",
         "filename": "tri_nadani_086.md",
         "xhtml": "tri_nadani_086.xhtml"
@@ -2283,7 +2285,7 @@
         "xhtml": "tri_nadani_087.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16\\. Okrouhlá úplnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_088.md",
         "xhtml": "tri_nadani_088.xhtml"
@@ -2295,7 +2297,7 @@
         "xhtml": "tri_nadani_089.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17\\. Tajemná hlubina",
         "subtitleSuggest": "",
         "filename": "tri_nadani_090.md",
         "xhtml": "tri_nadani_090.xhtml"
@@ -2307,7 +2309,7 @@
         "xhtml": "tri_nadani_091.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18\\. Jasná čistota",
         "subtitleSuggest": "",
         "filename": "tri_nadani_092.md",
         "xhtml": "tri_nadani_092.xhtml"
@@ -2319,7 +2321,7 @@
         "xhtml": "tri_nadani_093.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19\\. Mocné vytasení",
         "subtitleSuggest": "",
         "filename": "tri_nadani_094.md",
         "xhtml": "tri_nadani_094.xhtml"
@@ -2331,7 +2333,7 @@
         "xhtml": "tri_nadani_095.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20\\. Úsporná čistota",
         "subtitleSuggest": "",
         "filename": "tri_nadani_096.md",
         "xhtml": "tri_nadani_096.xhtml"
@@ -2343,7 +2345,7 @@
         "xhtml": "tri_nadani_097.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21\\. Pozorná přičinlivost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_098.md",
         "xhtml": "tri_nadani_098.xhtml"
@@ -2355,7 +2357,7 @@
         "xhtml": "tri_nadani_099.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22\\. Neohrožená pohotovost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_100.md",
         "xhtml": "tri_nadani_100.xhtml"
@@ -2367,7 +2369,7 @@
         "xhtml": "tri_nadani_101.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23\\. Vyprázdněné oduševnění",
         "subtitleSuggest": "",
         "filename": "tri_nadani_102.md",
         "xhtml": "tri_nadani_102.xhtml"
@@ -2379,13 +2381,13 @@
         "xhtml": "tri_nadani_103.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24\\. Oslnivý půvab",
         "subtitleSuggest": "",
         "filename": "tri_nadani_104.md",
         "xhtml": "tri_nadani_104.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Yang Jingzeng Dvacet čtyři básnío vlastnostechkaligrafických",
         "subtitleSuggest": "",
         "filename": "tri_nadani_105.md",
         "xhtml": "tri_nadani_105.xhtml"
@@ -2397,7 +2399,7 @@
         "xhtml": "tri_nadani_106.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1\\. Ozvěna ducha",
         "subtitleSuggest": "",
         "filename": "tri_nadani_107.md",
         "xhtml": "tri_nadani_107.xhtml"
@@ -2409,7 +2411,7 @@
         "xhtml": "tri_nadani_108.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2\\. Starobylá krása",
         "subtitleSuggest": "",
         "filename": "tri_nadani_109.md",
         "xhtml": "tri_nadani_109.xhtml"
@@ -2421,7 +2423,7 @@
         "xhtml": "tri_nadani_110.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3\\. Živelnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_111.md",
         "xhtml": "tri_nadani_111.xhtml"
@@ -2433,7 +2435,7 @@
         "xhtml": "tri_nadani_112.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4\\. Mocný vzmach",
         "subtitleSuggest": "",
         "filename": "tri_nadani_113.md",
         "xhtml": "tri_nadani_113.xhtml"
@@ -2445,7 +2447,7 @@
         "xhtml": "tri_nadani_114.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5\\. Čest a sláva",
         "subtitleSuggest": "",
         "filename": "tri_nadani_115.md",
         "xhtml": "tri_nadani_115.xhtml"
@@ -2457,7 +2459,7 @@
         "xhtml": "tri_nadani_116.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6\\. Oproštění",
         "subtitleSuggest": "",
         "filename": "tri_nadani_117.md",
         "xhtml": "tri_nadani_117.xhtml"
@@ -2469,7 +2471,7 @@
         "xhtml": "tri_nadani_118.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7\\. Velká tavba",
         "subtitleSuggest": "",
         "filename": "tri_nadani_119.md",
         "xhtml": "tri_nadani_119.xhtml"
@@ -2481,7 +2483,7 @@
         "xhtml": "tri_nadani_120.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8\\. Rázné vytasení",
         "subtitleSuggest": "",
         "filename": "tri_nadani_121.md",
         "xhtml": "tri_nadani_121.xhtml"
@@ -2493,7 +2495,7 @@
         "xhtml": "tri_nadani_122.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9\\. Pozorná vážnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_123.md",
         "xhtml": "tri_nadani_123.xhtml"
@@ -2505,7 +2507,7 @@
         "xhtml": "tri_nadani_124.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10\\. Nenucený půvab",
         "subtitleSuggest": "",
         "filename": "tri_nadani_125.md",
         "xhtml": "tri_nadani_125.xhtml"
@@ -2517,7 +2519,7 @@
         "xhtml": "tri_nadani_126.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11\\. Úplnost nevysloveného",
         "subtitleSuggest": "",
         "filename": "tri_nadani_127.md",
         "xhtml": "tri_nadani_127.xhtml"
@@ -2529,7 +2531,7 @@
         "xhtml": "tri_nadani_128.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12\\. Tichá povznesenost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_129.md",
         "xhtml": "tri_nadani_129.xhtml"
@@ -2541,7 +2543,7 @@
         "xhtml": "tri_nadani_130.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13\\. Řemeslná jemnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_131.md",
         "xhtml": "tri_nadani_131.xhtml"
@@ -2553,7 +2555,7 @@
         "xhtml": "tri_nadani_132.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14\\. Proměny",
         "subtitleSuggest": "",
         "filename": "tri_nadani_133.md",
         "xhtml": "tri_nadani_133.xhtml"
@@ -2565,7 +2567,7 @@
         "xhtml": "tri_nadani_134.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15\\. Bez zábran",
         "subtitleSuggest": "",
         "filename": "tri_nadani_135.md",
         "xhtml": "tri_nadani_135.xhtml"
@@ -2577,7 +2579,7 @@
         "xhtml": "tri_nadani_136.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16\\. Smysl pro rytmus",
         "subtitleSuggest": "",
         "filename": "tri_nadani_137.md",
         "xhtml": "tri_nadani_137.xhtml"
@@ -2589,7 +2591,7 @@
         "xhtml": "tri_nadani_138.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17\\. Vzdušný tanec",
         "subtitleSuggest": "",
         "filename": "tri_nadani_139.md",
         "xhtml": "tri_nadani_139.xhtml"
@@ -2601,7 +2603,7 @@
         "xhtml": "tri_nadani_140.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18\\. Vzdalování",
         "subtitleSuggest": "",
         "filename": "tri_nadani_141.md",
         "xhtml": "tri_nadani_141.xhtml"
@@ -2613,7 +2615,7 @@
         "xhtml": "tri_nadani_142.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19\\. Útlá křehkost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_143.md",
         "xhtml": "tri_nadani_143.xhtml"
@@ -2625,7 +2627,7 @@
         "xhtml": "tri_nadani_144.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20\\. Okrouhlá plnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_145.md",
         "xhtml": "tri_nadani_145.xhtml"
@@ -2637,7 +2639,7 @@
         "xhtml": "tri_nadani_146.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21\\. Podivuhodná závrať",
         "subtitleSuggest": "",
         "filename": "tri_nadani_147.md",
         "xhtml": "tri_nadani_147.xhtml"
@@ -2649,7 +2651,7 @@
         "xhtml": "tri_nadani_148.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22\\. Rovnováha",
         "subtitleSuggest": "",
         "filename": "tri_nadani_149.md",
         "xhtml": "tri_nadani_149.xhtml"
@@ -2661,7 +2663,7 @@
         "xhtml": "tri_nadani_150.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23\\. Velkorysost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_151.md",
         "xhtml": "tri_nadani_151.xhtml"
@@ -2673,7 +2675,7 @@
         "xhtml": "tri_nadani_152.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24\\. Svůdnost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_153.md",
         "xhtml": "tri_nadani_153.xhtml"
@@ -2773,6 +2775,6 @@
       "user": "books-are-next",
       "repo": "tri-nadani-tri-nadani"
     },
-    "generatedAt": 1652420527334
+    "generatedAt": 1654774536556
   }
 }
