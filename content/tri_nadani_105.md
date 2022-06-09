@@ -1,10 +1,6 @@
 ---
-title: ''
+title: "Yang Jingzeng\_Dvacet čtyři básnío\_vlastnostechkaligrafických"
 contentType: prose
 ---
 
-Yang Jingzeng  
-   
-Dvacet čtyři básní  
-o vlastnostech  
-kaligrafických
+

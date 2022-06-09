@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Autorem _Dvaceti_ _čtyř_ _básní_ _o_ _vlastnostech_ _malířských_ byl Huang Yue (Zuotian), příslušný do okresu Dangtu v dnešní středočínské provincii Anhui. Podle zachovaného životopisu Huang Yue záhy osiřel a byl vychováván v cizí rodině. Dostalo se mu však řádného vzdělání a už v okresní škole vynikal jako mimořádně nadaný student. Posléze také dosáhl nejvyšší hodnosti akademické (1791) a stal se čekatelem na důchodovém ministerstvu. Po krátké službě však rezignoval na svůj úřad a požádal o dovolení vrátit se do ústraní. Potom působil jako vychovatel. Ještě jednou nastoupil úřední kariéru. Dosáhl místa státního sekretáře, opět na důchodovém ministerstvu. V biografii se uvádí, že když zestárl, znovu požádal o uvolnění. Žil pak z nevelkého důchodu, ale dožil se vysokého věku. Zemřel, když mu bylo devadesát dva let. Jeho spisy čítají 40 svazků.
 
 K tomu jeden svazek Dvaceti čtyř básní o vlastnostech malířských (Ershisi hua pin). Sbírka básní inspirovaná věhlasným souborem básní o básnictví měla značný ohlas. Udává se, že vznikla kolem roku 1800. Huang Yue byl uznáván i jako malíř a kaligraf. Jako malíř se dostal i do císařských sbírek. Mezi milovníky a znalci malířství požíval mimořádné autority. Zpočátku mu byli vzorem ve své době populární krajinář Wang Hui (Shigu, 1632–1717) a neméně známý krajinář a malíř květinových zátiší Yun Shouping (Nantian, 1633–1690). Huang Yue v nich vidí ideál samotářské prostoty a uvolněnosti malířského projevu. K stáru se obrátil k mladšímu ze čtyř Wangů, k Wang Yuanqiovi (Lutai, 1642–1715), s jeho plnějším, robustnějším krajinářským projevem. Wang Yuanqi mu možná imponoval i jako teoretik, jako autor známé malířské poetiky _Zápisky_ _deštivého_ _okna_ (Yu chuang man bi).

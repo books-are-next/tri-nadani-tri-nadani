@@ -23,4 +23,4 @@ contentType: prose
 
 10) Zaváděním dnes mezinárodně legitimního zápisu čínských slov stvrzujeme nejen čínskou kulturní identitu ale i kulturní identitu vlastní. Součástí české gramotnosti je, že píšeme Shakespeare a nikoli Šejkspír, Don Quijot de la Mancha a nikoli Don Kichot de la Manča, Don Juan a nikoli Don Chuan.
 
-O. K.
+> _O. K._

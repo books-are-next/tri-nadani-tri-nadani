@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Sikong Tu (Biaosheng, 837–908), autor této sbírky básní o básnění, o kategoriích umění básnického i vlastnostech básníků, byl sám jedním z největších básníků pozdních Tangů. Vzdor jeho básnickému věhlasu v dějinách čínské literatury žije především jako autor této jedinečné poetiky básnictví. Biografie je sporá. Pocházel nejspíš ze středočínské provincie Anhui a jeho rodina patřila k vybraným rodinám s dlouhou hodnostářskou a vzdělaneckou tradicí. Sám autor prošel úspěšně nejvyšším stupněm císařských akademických zkoušek v roce 869. Bylo mu právě 32 let. Jeho kariéra však neměla dlouhé trvání. Doba byla nestálá. Sikong Tu se stáhl na svůj statek v horách Zhongtiao. V předmluvě ke svým spisům považuje za nutné vysvětlovat svůj odchod nemožností realizovat své společenské ambice a politické představy; zřejmé reziduum konfuciánské výchovy.
 
 Sikong Tu se obrací k buddhismu a k taoismu. Tato učení ho inspirují v tvorbě, v nich nachází zdroje své estetiky. Výmluvná jsou i jména básníků, s nimiž se cítil spřízněn: básník návratů Tao Yuanming (365–427 n. l.), meditativní Wang Wei (701–761 n. l.), melancholický Wei Yingwu (737–792 n. l.), básníci ticha a pravdivosti niterné.
