@@ -3,6 +3,8 @@ title: "Zápis a\_výslovnost čínských slov"
 contentType: prose
 ---
 
+<section>
+
 1) Všechna čínská slova a jména jsou psána čínskou verzí latinky, zvanou pinyin.
 
 2) Základní fonologickou jednotkou čínštiny je slabika.
@@ -24,3 +26,5 @@ contentType: prose
 10) Zaváděním dnes mezinárodně legitimního zápisu čínských slov stvrzujeme nejen čínskou kulturní identitu ale i kulturní identitu vlastní. Součástí české gramotnosti je, že píšeme Shakespeare a nikoli Šejkspír, Don Quijot de la Mancha a nikoli Don Kichot de la Manča, Don Juan a nikoli Don Chuan.
 
 > _O. K._
+
+</section>

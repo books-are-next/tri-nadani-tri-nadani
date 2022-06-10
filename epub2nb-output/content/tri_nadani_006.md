@@ -3,6 +3,8 @@ title: "Poznámka k\_překladu"
 contentType: prose
 ---
 
+<section>
+
 Interpretace pravidelné čínské básně v rozměru čtyřslabičného verše patří k nejobtížnějším. Krátký verš vázaný nejen počtem slabik, ale i paralelní skladbou dvojverší vede k častému užívání eliptických konstrukcí, ve kterých jsou vypouštěna někdy i rozhodující gramatická slova a slovce s cílem dosáhnout maximální výpovědi na nejmenším prostoru. Sémantické vytížení každého slova, každé slabiky je nepředstavitelné. Verš je asyntaktický, gramaticky uvolněný, chybí uspořádanost slovcí s jasnou gramatickou funkcí, jednoznačně určujícími vztahy slov ve verši. Na významu se výrazně podílejí mimoslovní prvky jako rytmus, juxtapozice, paralela, asyndeton i slovní prvky jako ambigvita, konotace, aluze, zkratka, synekdocha, antonomasie.
 
 Ještě obtížnější je vyjádřit tuto interpretaci překladem do jiného jazyka. Prakticky je to nemožné. S tím vědomím jsem někdy v polovině osmdesátých let požádal svého přítele Karla Šiktance, jestli by to se mnou nechtěl zkusit. Základní důvod byl prostý: využít jeho básnické dikce a těch možností, které ve své vlastní tvorbě našel v české řeči, pro tu holou nemožnost, kterou jsem si usmyslel: dostat ty staré básně do jazyka a do formy, která by neodešla od toho lyrického _arché_, jež před tisíci lety zvolil Sikong Tu. Znal jsem Šiktancovo umění zkratky, schopnost elipsy, jeho znalost lexikálního archivu české řeči. Obdivoval jsem odvahu jít větě po krku. Sázel jsem na jeho slabost pro slovotvornou hříčku a slohotvornou hádanku, spolu s jeho bytostným puzením jít po magických kořenech slov. Tušil jsem, že se chytí, možná právě pro tu zjevnou nemožnost, která by každého jiného odradila. V opačném případě bych od té knížky nejspíš ustoupil.
@@ -14,3 +16,5 @@ Dokončení nebylo snadné. Těžce jsme hledali tu nám oběma přijatelnou mí
 Teď jsme tedy na konci jedné cesty. Je už na čtenáři, aby posoudil, nakolik se nám podařilo udělat v české řeči místo pro tuhle starou báseň o básni, o malířství, o kaligrafii.
 
 > _O. K._
+
+</section>

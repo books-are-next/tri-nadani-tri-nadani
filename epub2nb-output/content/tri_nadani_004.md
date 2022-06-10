@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Tři nadání](https://search.mlp.cz/cz/titul/tri-nadani/2233851/#book-content) tak, jak bylo vydáno nakladatelstvím Mladá fronta v Praze v roce 2000. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 11. 6. 2020.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>
