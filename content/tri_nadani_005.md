@@ -3,6 +3,8 @@ title: Předmluva
 contentType: prose
 ---
 
+<section>
+
 Tři básnické sbírky v této knížce představují tři básnické poetiky tří lyrických umění, jež podle mínění starých Číňanů patřily k sobě a k člověku jako ta tři nadání, kterými mohl vyjádřit sebe i svůj byt, sdílený s ostatním přirozeným světem.
 
 Tyto tři básnické sbírky vznikly v rozpětí bezmála celého tisíciletí.
@@ -28,3 +30,5 @@ Překládali jsme v přátelském dialogu sinologa a básníka — z radosti
 Potom, co jsme si takto vybrali svůj díl nálezného, vracíme tyto básně čtenářům.
 
 > _Oldřich Král a Karel Šiktanc_
+
+</section>
