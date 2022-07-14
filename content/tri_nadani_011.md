@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Prostota byt má v odmlce a tichu  
+Prostota byt má v odmlce a tichu  
 V tajemném stroji světa plném zázraku  
 Kde Velké souznění   z nějž piješ  
-Kde sirý jeřáb zve tě do mraků_
+Kde sirý jeřáb zve tě do mraků
 
 </section>
 
 <section>
 
-_Jako když v šatech blahodárný vítr  
+Jako když v šatech blahodárný vítr  
 něžně se hýbe   něžně sedá si  
 Slyšíš   jak pnou se bambusové stvoly  
-A krásu slyšet   jak se navrací_
+A krásu slyšet   jak se navrací
 
 </section>
 
 <section>
 
-_Co při potkání zdá se nehluboké —  
+Co při potkání zdá se nehluboké —  
 to při dotyku mizí vzápětí  
 Podobnost tvarů je tu nejspíš zbytná  
-Natáhni ruku po ní   Uhne ti_
+Natáhni ruku po ní   Uhne ti
 
 </section>
 

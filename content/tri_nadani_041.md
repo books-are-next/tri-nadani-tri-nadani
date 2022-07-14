@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Ledňáčková zeleň šplhá kozí stezkou  
+Ledňáčková zeleň šplhá kozí stezkou  
 na veliký Taihang skrytý v oblacích  
 Nefritem se řine tajuplná mlha  
-Z luk se vůně květin líně potácí_
+Z luk se vůně květin líně potácí
 
 </section>
 
 <section>
 
-_Porozumět času   to je naše síla  
+Porozumět času   to je naše síla  
 Tón tibetských píšťal duje z povzdálí  
 Tiše odcházejí   tiše vracejí se  
-Ztajené   ač neznat že se skrývaly_
+Ztajené   ač neznat že se skrývaly
 
 </section>
 
 <section>
 
-_Vítr z bájných Pengů mávajících křídly  
+Vítr z bájných Pengů mávajících křídly  
 Vír se divým kruhem v řece roztáčí  
 Dao není nástroj vhodný k užívání  
-Toť i kruh   I čtverec   Vždycky jinačí_
+Toť i kruh   I čtverec   Vždycky jinačí
 
 </section>
 

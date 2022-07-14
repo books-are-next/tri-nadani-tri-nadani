@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Nejvíc čekat všeho prostou duši  
+Nejvíc čekat všeho prostou duši  
 K pravosti se vrátit   jako dřív  
 Zkusit vodám dohlédati stíny  
-Zkusit napsat jaro   Rozsvícený div_
+Zkusit napsat jaro   Rozsvícený div
 
 </section>
 
 <section>
 
-_Oblaka a vítr   žádné stání  
+Oblaka a vítr   žádné stání  
 blaze čisté duše trav a kvetení  
 Vlnobití   Temný příboj moře  
-Strmě příkré hory v jednom kameni_
+Strmě příkré hory v jednom kameni
 
 </section>
 
 <section>
 
-_Každý podoben tu oné Velké Cestě  
+Každý podoben tu oné Velké Cestě  
 s každým zrnkem prachu divotvorně spjat  
 Čím víc vzdálen tvaru   blíž je podobnosti  
-Blíž i o naději naučit se psát_
+Blíž i o naději naučit se psát
 
 </section>
 

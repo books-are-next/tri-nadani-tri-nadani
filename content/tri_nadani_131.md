@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Ani šev na bledém šatu nebe  
+Ani šev na bledém šatu nebe  
 sivý brokát oblak voní k zemdlení  
 Řemeslo a síla   věční nepřátelé  
-Tu je pravý základ všeho umění_
+Tu je pravý základ všeho umění
 
 </section>
 
 <section>
 
-_Dosáhnouti srdcem   Odpovědět rukou  
+Dosáhnouti srdcem   Odpovědět rukou  
 Přirozenost sama měří hodnotu  
 Natažená šňůra umí zjednat rovnost  
-Zato meč umírá touhou po hrotu_
+Zato meč umírá touhou po hrotu
 
 </section>
 
 <section>
 
-_Vánek zlehka opřen o stín hortensií  
+Vánek zlehka opřen o stín hortensií  
 Nad ibiškem luna spadlá do keře  
 Jako kov se tratí   taje v horké výhni —  
-Velký duch se toulá v čisté nádheře_
+Velký duch se toulá v čisté nádheře
 
 </section>
 

@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Oči   uši   už jsou nasyceny  
+Oči   uši   už jsou nasyceny  
 Srdce tvé   i ruka šťastně ztišeny  
 Nekonečné pohnulo se nebe  
-Naše velké jmění   toť dar umění_
+Naše velké jmění   toť dar umění
 
 </section>
 
 <section>
 
-_Roštem z kmene   od kořenů rostem  
+Roštem z kmene   od kořenů rostem  
 Naše staré knihy   Naše dějiny  
 I povrchní pohled jak by úplnější  
-Vnor až po tmu nezná konec hlubiny_
+Vnor až po tmu nezná konec hlubiny
 
 </section>
 
 <section>
 
-_Pro toho   kdo slyší na svou přirozenost  
+Pro toho   kdo slyší na svou přirozenost  
 zákony jsou mrtvé   ctí je míň a míň  
 Jako v poezii   Velkým básníkem byl  
-kdysi k řece Canglang zatoulaný syn_
+kdysi k řece Canglang zatoulaný syn
 
 </section>
 

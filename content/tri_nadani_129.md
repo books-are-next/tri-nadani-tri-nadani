@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Lehké mráčky tanou z horské hloubky  
+Lehké mráčky tanou z horské hloubky  
 nazdařbůh   tu v kupě   tu zas prostřeny  
 Host přichází zvolna   Nepospíchá  
-Měsíc zas až v novu bude k vidění_
+Měsíc zas až v novu bude k vidění
 
 </section>
 
 <section>
 
-_Náhodou   jen tak jsem vsadil jívu  
+Náhodou   jen tak jsem vsadil jívu  
 jen tak obyčejnou jako jívy jsou  
 Déšť jak přišel   zase odchází si  
-Povětří — ou, ouvej — s dlouhou ozvěnou_
+Povětří — ou, ouvej — s dlouhou ozvěnou
 
 </section>
 
 <section>
 
-_Zároveň tak čistý a tak prázdný  
+Zároveň tak čistý a tak prázdný  
 v blahém vytržení padat do tuše  
 Srdce vnímající   Nepokojnost dechu  
-A tím vším   ach   v sobě přemoci to vše_
+A tím vším   ach   v sobě přemoci to vše
 
 </section>
 

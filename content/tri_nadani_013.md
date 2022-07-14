@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Barevný skvoucí proud běžící řeky  
+Barevný skvoucí proud běžící řeky  
 už kypré jaro větří z daleka  
 V tajemném dolu hlubokého ticha  
-vzácného občas potkáš člověka_
+vzácného občas potkáš člověka
 
 </section>
 
 <section>
 
-_Smaragdů broskví plné stromy  
+Smaragdů broskví plné stromy  
 Povětří   slunce hostem břehů vod  
 Ve stinných jívách klikatí se cesta  
-Těkavé žluvy   tichý doprovod_
+Těkavé žluvy   tichý doprovod
 
 </section>
 
 <section>
 
-_Nasedneš   Pluješ kam ti libo  
+Nasedneš   Pluješ kam ti libo  
 Bližší si   Pravdivější   neboť víš:  
 co uchopil jsi   nevrací se zpátky  
-a s tím co bylo   nové utvoříš_
+a s tím co bylo   nové utvoříš
 
 </section>
 

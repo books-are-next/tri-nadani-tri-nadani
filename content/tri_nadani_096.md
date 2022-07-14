@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Bohatství se nedosáhne množstvím  
+Bohatství se nedosáhne množstvím  
 Málem ještě nestvrzena prostota  
 To jsou slova   s kterými co ráno  
-jak by procitalo světlo života_
+jak by procitalo světlo života
 
 </section>
 
 <section>
 
-_Chceš-li stručnost — začni početností  
+Chceš-li stručnost — začni početností  
 čistotu chceš — nebaž po drobkách  
 Lidé mají sklony plýtvat slovy  
-Můj štětec však sází na jediný tah_
+Můj štětec však sází na jediný tah
 
 </section>
 
 <section>
 
-_Podobenství skvělá v jednom nepatrném  
+Podobenství skvělá v jednom nepatrném  
 V prchavosti vnějšku   v tom cos odplývá  
 Kdo tak jednal?   Kdo že se tak chová?  
-Pták co odmlčel se   Pták co nezpívá_
+Pták co odmlčel se   Pták co nezpívá
 
 </section>
 

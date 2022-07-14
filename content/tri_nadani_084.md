@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Převysoko na terase měsíc  
+Převysoko na terase měsíc  
 lije čistotné své světlo po zemi  
 Citera si dříme na kolenou  
-Hruď se plní okolními vůněmi_
+Hruď se plní okolními vůněmi
 
 </section>
 
 <section>
 
-_Jeřábi se řítí do mrazivé mlhy  
+Jeřábi se řítí do mrazivé mlhy  
 Slivoňových květů bledá hladina  
 To   na co jsi ještě ani nepomyslel  
-už tvůj štětec znáhla začíná_
+už tvůj štětec znáhla začíná
 
 </section>
 
 <section>
 
-_Toto všecko — i lék na průměrnost  
+Toto všecko — i lék na průměrnost  
 Či snad také pomoc nadaným  
 Přinucení?   Ale koho?   K čemu?  
-Násilí?   A na kom?   A co s ním?_
+Násilí?   A na kom?   A co s ním?
 
 </section>
 

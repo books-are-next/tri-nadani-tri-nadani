@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Předem roste v hrudi bambusový stonek  
+Předem roste v hrudi bambusový stonek  
 Štětec nemá zábran   nemá strach  
 Západního svahu bujná energie  
-Severního sadu poletavý tah_
+Severního sadu poletavý tah
 
 </section>
 
 <section>
 
-_Lotosové dlaně nabírají rosu  
+Lotosové dlaně nabírají rosu  
 denní svit se smeká vranám po hřbetě  
 Blahodárný vítr v listech fíkovníků  
-Světlo čisté luny v třpytu perletě_
+Světlo čisté luny v třpytu perletě
 
 </section>
 
 <section>
 
-_Nefritová červeň vchází do obrazu  
+Nefritová červeň vchází do obrazu  
 Smaragdová zeleň obepíná svět  
 Cípek plachty letí po vlnité vodě  
-Prší   Hustě prší broskvoňový květ_
+Prší   Hustě prší broskvoňový květ
 
 </section>
 

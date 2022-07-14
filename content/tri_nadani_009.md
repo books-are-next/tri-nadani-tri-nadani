@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Co veskrz účel   naven mdlé se jeví  
+Co veskrz účel   naven mdlé se jeví  
 Co veskrz tělo   uvnitř plné je  
 Kdo vrácen prázdnu   dojde úplnosti  
-Kdo šetří síly   k moci dospěje_
+Kdo šetří síly   k moci dospěje
 
 </section>
 
 <section>
 
-_Schystáno tvůrcem deset tisíc věcí  
+Schystáno tvůrcem deset tisíc věcí  
 Znamení kříží obří prostor tmy  
 Od kraje po kraj věčný olej mraků  
-věk věků vítr bičuje   A hřmí_
+věk věků vítr bičuje   A hřmí
 
 </section>
 
 <section>
 
-_Tak umět vkročit za obrazy věcí!  
+Tak umět vkročit za obrazy věcí!  
 Tak umět v kruhu nahmátnouti střed!  
 A bez násilí pozdvihnout to na svět  
-A bez těžkosti v rukou podržet_
+A bez těžkosti v rukou podržet
 
 </section>
 

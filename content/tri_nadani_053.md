@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Má lidský život výměr na sto roků  
+Má lidský život výměr na sto roků  
 Kam jsme už došli?   Kdoví Je to dost?  
 Bolestí   smutků vskutku vrchovatě  
-Málo co zbývá   zbývá pro radost_
+Málo co zbývá   zbývá pro radost
 
 </section>
 
 <section>
 
-_Co takhle dolít číšku alkoholem  
+Co takhle dolít číšku alkoholem  
 za dny co zbyly spustit mlžnou síť?  
 Když obroste ti rákosinou střecha  
-když mží tak ptej se   kde má přítel byt_
+když mží tak ptej se   kde má přítel byt
 
 </section>
 
 <section>
 
-_A když i tam jsme vypili už do dna  
+A když i tam jsme vypili už do dna  
 vem hůl a písničku vem   a zas o dům dál  
 Ať chcem či nechcem budem jednou staří  
-Nad námi strmé hřbety Jižních skal_
+Nad námi strmé hřbety Jižních skal
 
 </section>
 
@@ -39,27 +39,27 @@ Věčně věků sledujeme tytéž, stále tytéž věci: Vodu padající na lopa
 
 <section>
 
-_Do lopatek kola voda věčně padá  
+Do lopatek kola voda věčně padá  
 třpyt se korálově v perlách převrací  
 Co lze o tom ještě vůbec říci?  
-Vypůjčená slova jsou jak hlupáci_
+Vypůjčená slova jsou jak hlupáci
 
 </section>
 
 <section>
 
-_Osa země velká   převeliká  
+Osa země velká   převeliká  
 Osa nebe širá kdesi v daleku  
 Jednou k nim tak uslyšeti heslo  
-Najít jednou klíče od věků_
+Najít jednou klíče od věků
 
 </section>
 
 <section>
 
-_Stoupat vzhůru   Za magickým světlem  
+Stoupat vzhůru   Za magickým světlem  
 Do nicoty temna vraceti se zpět  
 Roky přicházíme   roky odcházíme  
-A to je tak všechno   co lze povědět_
+A to je tak všechno   co lze povědět
 
 </section>

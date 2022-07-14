@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Šestero je přikázání tvorby  
+Šestero je přikázání tvorby  
 Rytmus dechu ze všech nejtěžší  
 Kdesi za myšlenkou hotoví se štětec  
-Kdesi za obrazem jeho tajemství_
+Kdesi za obrazem jeho tajemství
 
 </section>
 
 <section>
 
-_Jako tóny věrné ztichlým stromům  
+Jako tóny věrné ztichlým stromům  
 Jako z mlhy stvořen oblak k naději  
 Nebe plné větru zimozimoucího  
-Po vodách se vlny valem válejí_
+Po vodách se vlny valem válejí
 
 </section>
 
 <section>
 
-_Tvary věcí víří v jednom kruhu  
+Tvary věcí víří v jednom kruhu  
 nic tu po kolena   nic tu bezedné  
 Přečteš deset tisíc svazků knih   A  
-možná   tvoje srdce jednou prohlédne_
+možná   tvoje srdce jednou prohlédne
 
 </section>
 

@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Trhat zase novou svěží trávu  
+Trhat zase novou svěží trávu  
 pálit vůně pro ty   kdo budou žít dál  
 Smekat se jak zmije   Jako vydra prchat  
-Rozumem pak stačíš vyléčit svůj žal_
+Rozumem pak stačíš vyléčit svůj žal
 
 </section>
 
 <section>
 
-_Jádra cedru pomůžou prý vzrůstu  
+Jádra cedru pomůžou prý vzrůstu  
 Recept spoléhal se na Nebeskou myš  
 To nemá co dělat se Zeleným měšcem  
-v Prostých otázkách to sotva objevíš_
+v Prostých otázkách to sotva objevíš
 
 </section>
 
 <section>
 
-_Bít se v prsa   Sám si na dlaň kreslit  
+Bít se v prsa   Sám si na dlaň kreslit  
 A naráz tak čisto a tak svěže ti  
 jak by v tobě lékem všechno obvázáno  
-Takže málokdy to sejde z paměti_
+Takže málokdy to sejde z paměti
 
 </section>
 

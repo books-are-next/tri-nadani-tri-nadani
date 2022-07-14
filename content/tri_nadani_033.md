@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Chuť navracet se zpátky k nekonečnu  
+Chuť navracet se zpátky k nekonečnu  
 Setkávat se   jít spolu   Tam a zpět  
 V bezedné tůni rozčeřená voda  
-K rozpuku schystán   divotvorný květ_
+K rozpuku schystán   divotvorný květ
 
 </section>
 
 <section>
 
-_Papoušek křičí v zelenavém jaru  
+Papoušek křičí v zelenavém jaru  
 Ve vrbách altán prosvítá  
 Přichází člověk z azurové hory  
-Alkohol svítí   Číš je dolita_
+Alkohol svítí   Číš je dolita
 
 </section>
 
 <section>
 
-_Zde věčně dál duch života se dere  
+Zde věčně dál duch života se dere  
 Neb mrtvý popel nenabízí klid  
 Stvoření zázrak děje se sám sebou  
-Kdo by ho zkusil jen tak opravit?_
+Kdo by ho zkusil jen tak opravit?
 
 </section>
 

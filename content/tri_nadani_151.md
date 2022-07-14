@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Jako nebe — zde ten prostor prázdna  
+Jako nebe — zde ten prostor prázdna  
 Jako moře — zde ta široširá níž  
 Ryba skáče z vody   Luňák letí  
-Duch je živé vody trysk a tříšť_
+Duch je živé vody trysk a tříšť
 
 </section>
 
 <section>
 
-_Ani svázán pouty   Ani rozptýlený  
+Ani svázán pouty   Ani rozptýlený  
 žádné škrty   žádné uhlázení hran  
 Uvolněný pás — a klobouk vzhůru  
-vyhrnutý rukáv — límec dokořán_
+vyhrnutý rukáv — límec dokořán
 
 </section>
 
 <section>
 
-_Papír jako brokátové sukno  
+Papír jako brokátové sukno  
 Šat z něj zvyšívaný vydá na esej  
 Z všeho vysvlečený   věčně nad ním sedí  
-v chladném čistém větru — děj se kde co děj_
+v chladném čistém větru — děj se kde co děj
 
 </section>
 
@@ -39,27 +39,27 @@ Po předposlední básni, po onom fanfarónském vyznání nekonečného prostor
 
 <section>
 
-_Jabloňka si zdřímla jarním spánkem  
+Jabloňka si zdřímla jarním spánkem  
 Tvář jak sléz když růže žene do květu  
 Za výšivkou stóry čirý krásný přelud  
-Ve voňavém voze třpytné šminky rtů_
+Ve voňavém voze třpytné šminky rtů
 
 </section>
 
 <section>
 
-_Oblak jako pírko smývá lunu  
+Oblak jako pírko smývá lunu  
 Rosa kane   stéká do mračen  
 Trochu těsno energii mužů  
-Zde jen plnost líbeznosti žen_
+Zde jen plnost líbeznosti žen
 
 </section>
 
 <section>
 
-_Filigránství nepotlačí dokonalost práce  
+Filigránství nepotlačí dokonalost práce  
 Hojnost nepotlačí úchvat proměny  
 Koho načas uřknul virtuózní nástroj  
-sklidí leda úsměv znalců umění_
+sklidí leda úsměv znalců umění
 
 </section>

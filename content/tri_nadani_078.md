@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Když jich mnoho   zákony ti ke zlu  
+Když jich mnoho   zákony ti ke zlu  
 Zbavit se jich   vymanit se snaž  
 Nebo vinou ohledů těch věčných  
-neuplatníš sílu   kterou třeba máš_
+neuplatníš sílu   kterou třeba máš
 
 </section>
 
 <section>
 
-_Říká se   že štětec je jak rádlo  
+Říká se   že štětec je jak rádlo  
 Ale štětec taky vymítá  
 Všude   po vše časy   nejasnou tu tíhu  
-co je v lidské hrudi právě ukryta_
+co je v lidské hrudi právě ukryta
 
 </section>
 
 <section>
 
-_Radostné to jeho poklizení  
+Radostné to jeho poklizení  
 nic si před ním jisto   kdeco namále  
 On tvůj pán   Tvůj opravdový vládce  
-Ale opovaž se sloužit nedbale!_
+Ale opovaž se sloužit nedbale!
 
 </section>
 
