@@ -1,6 +1,6 @@
 ---
 title: "24\\.\_Svůdnost"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

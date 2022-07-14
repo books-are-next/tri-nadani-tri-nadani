@@ -1,6 +1,6 @@
 ---
 title: "Zápis a\_výslovnost čínských slov"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

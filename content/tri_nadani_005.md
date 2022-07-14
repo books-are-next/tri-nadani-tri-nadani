@@ -1,6 +1,6 @@
 ---
 title: Předmluva
-contentType: prose
+contentType: poetry
 ---
 
 <section>
