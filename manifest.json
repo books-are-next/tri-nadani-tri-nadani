@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "preklad-tri-nadani-7f6077f",
-  "revision": "7f6077f",
+  "identifier": "preklad-tri-nadani-f8d4903",
+  "revision": "f8d4903",
   "readingOrder": [
     "promo.html",
     "tri_nadani_005.html",
@@ -89,14 +89,13 @@
     "tri_nadani_147.html",
     "tri_nadani_149.html",
     "tri_nadani_151.html",
-    "tri_nadani_153.html",
     "tri_nadani_154.html",
     "tri_nadani_155.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 14 2022 17:05:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657818317876
+    "date": "Thu Jul 14 2022 17:17:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657819061191
   },
   "documents": [
     {
@@ -1634,38 +1633,18 @@
     {
       "title": "23. Velkorysost",
       "file": "tri_nadani_151.html",
-      "words": 224,
-      "chars": 1268,
-      "ideas": 14,
+      "words": 286,
+      "chars": 1653,
+      "ideas": 26,
       "role": "chapter",
       "order": 77,
       "prev": "tri_nadani_149.html",
-      "next": "tri_nadani_153.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "23. Velkorysost",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "24. Svůdnost",
-      "file": "tri_nadani_153.html",
-      "words": 64,
-      "chars": 397,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 78,
-      "prev": "tri_nadani_151.html",
       "next": "tri_nadani_154.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "24. Svůdnost",
+          "name": "23. Velkorysost",
           "id": null,
           "children": []
         }
@@ -1678,8 +1657,8 @@
       "chars": 1314,
       "ideas": 3,
       "role": "chapter",
-      "order": 79,
-      "prev": "tri_nadani_153.html",
+      "order": 78,
+      "prev": "tri_nadani_151.html",
       "next": "tri_nadani_155.html",
       "toc": [
         {
@@ -1698,7 +1677,7 @@
       "chars": 1415,
       "ideas": 12,
       "role": "chapter",
-      "order": 80,
+      "order": 79,
       "prev": "tri_nadani_154.html",
       "next": "about.html",
       "toc": [
@@ -1734,14 +1713,14 @@
   ],
   "totals": {
     "all": {
-      "words": 20436,
-      "chars": 125200,
-      "ideas": 1076
+      "words": 20434,
+      "chars": 125188,
+      "ideas": 1075
     },
     "chapters": {
-      "words": 20279,
-      "chars": 124202,
-      "ideas": 1055
+      "words": 20277,
+      "chars": 124190,
+      "ideas": 1054
     }
   }
 }

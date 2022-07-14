@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "tri_nadani_001.md",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva"
+            "title": "Předmluva",
+            "children": []
           },
           {
             "filename": "tri_nadani_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámka k překladu"
+            "title": "Poznámka k překladu",
+            "children": []
           },
           {
             "filename": "tri_nadani_007.md",
@@ -122,6 +123,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických ",
             "children": [
               {
                 "filename": "tri_nadani_008.md",
@@ -130,10 +132,11 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": true,
+                "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Předmluva"
               },
               {
                 "filename": "tri_nadani_009.md",
@@ -145,8 +148,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. Majestátní úplnost"
+                "title": "1. Majestátní úplnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_010.md",
@@ -170,8 +173,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. Smírná odtažitost"
+                "title": "2. Smírná odtažitost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_012.md",
@@ -195,8 +198,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. Pestrost a kyprost"
+                "title": "3. Pestrost a kyprost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_014.md",
@@ -220,8 +223,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. Sebevědomá pohrouženost"
+                "title": "4. Sebevědomá pohrouženost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_016.md",
@@ -245,8 +248,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. Vznešená starobylost"
+                "title": "5. Vznešená starobylost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_018.md",
@@ -270,8 +273,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. Klasická krása "
+                "title": "6. Klasická krása ",
+                "children": []
               },
               {
                 "filename": "tri_nadani_020.md",
@@ -295,8 +298,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. Ryzost"
+                "title": "7. Ryzost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_022.md",
@@ -320,8 +323,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. Mocná síla"
+                "title": "8. Mocná síla",
+                "children": []
               },
               {
                 "filename": "tri_nadani_024.md",
@@ -345,8 +348,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. Zdobná sličnost"
+                "title": "9. Zdobná sličnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_026.md",
@@ -370,8 +373,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. Sama přirozenost"
+                "title": "10. Sama přirozenost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_028.md",
@@ -395,8 +398,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. Zdrženlivost"
+                "title": "11. Zdrženlivost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_030.md",
@@ -420,8 +423,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. Nespoutanost"
+                "title": "12. Nespoutanost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_032.md",
@@ -445,8 +448,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. Duše a podstata"
+                "title": "13. Duše a podstata",
+                "children": []
               },
               {
                 "filename": "tri_nadani_034.md",
@@ -470,8 +473,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. Předivo jemnosti"
+                "title": "14. Předivo jemnosti",
+                "children": []
               },
               {
                 "filename": "tri_nadani_036.md",
@@ -495,8 +498,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. Bezstarostná prostota"
+                "title": "15. Bezstarostná prostota",
+                "children": []
               },
               {
                 "filename": "tri_nadani_038.md",
@@ -520,8 +523,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. Jasná výjimečnost"
+                "title": "16. Jasná výjimečnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_040.md",
@@ -545,8 +548,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. Proměnlivost"
+                "title": "17. Proměnlivost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_042.md",
@@ -570,8 +573,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. Skutečnost"
+                "title": "18. Skutečnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_044.md",
@@ -595,8 +598,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19. Smutek"
+                "title": "19. Smutek",
+                "children": []
               },
               {
                 "filename": "tri_nadani_046.md",
@@ -620,8 +623,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "20. Obraznost"
+                "title": "20. Obraznost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_048.md",
@@ -645,8 +648,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "21. Překračování"
+                "title": "21. Překračování",
+                "children": []
               },
               {
                 "filename": "tri_nadani_050.md",
@@ -670,8 +673,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "22. Plynutí"
+                "title": "22. Plynutí",
+                "children": []
               },
               {
                 "filename": "tri_nadani_052.md",
@@ -695,8 +698,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "23. Nadhled"
+                "title": "23. Nadhled",
+                "children": []
               },
               {
                 "filename": "tri_nadani_054.md",
@@ -720,11 +723,10 @@
                 "hungry": false,
                 "devoured": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "24. Pomíjivost"
+                "title": "24. Pomíjivost",
+                "children": []
               }
-            ],
-            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických "
+            ]
           },
           {
             "filename": "tri_nadani_056.md",
@@ -736,6 +738,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
             "children": [
               {
                 "filename": "tri_nadani_057.md",
@@ -744,10 +747,11 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": true,
+                "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Předmluva"
               },
               {
                 "filename": "tri_nadani_058.md",
@@ -759,8 +763,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. Ozvěna dechu"
+                "title": "1. Ozvěna dechu",
+                "children": []
               },
               {
                 "filename": "tri_nadani_059.md",
@@ -784,8 +788,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. Oduševnělé mistrovství"
+                "title": "2. Oduševnělé mistrovství",
+                "children": []
               },
               {
                 "filename": "tri_nadani_061.md",
@@ -809,8 +813,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. Vznešená starobylost"
+                "title": "3. Vznešená starobylost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_063.md",
@@ -834,8 +838,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. Blankyt a vláha"
+                "title": "4. Blankyt a vláha",
+                "children": []
               },
               {
                 "filename": "tri_nadani_065.md",
@@ -859,8 +863,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. Majestát síly"
+                "title": "5. Majestát síly",
+                "children": []
               },
               {
                 "filename": "tri_nadani_067.md",
@@ -884,8 +888,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. Harmonie"
+                "title": "6. Harmonie",
+                "children": []
               },
               {
                 "filename": "tri_nadani_069.md",
@@ -909,8 +913,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. Tiché ústraní"
+                "title": "7. Tiché ústraní",
+                "children": []
               },
               {
                 "filename": "tri_nadani_071.md",
@@ -934,8 +938,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. Původní prostota"
+                "title": "8. Původní prostota",
+                "children": []
               },
               {
                 "filename": "tri_nadani_073.md",
@@ -959,8 +963,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. Transcendence"
+                "title": "9. Transcendence",
+                "children": []
               },
               {
                 "filename": "tri_nadani_075.md",
@@ -984,8 +988,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. Podivuhodné otevření"
+                "title": "10. Podivuhodné otevření",
+                "children": []
               },
               {
                 "filename": "tri_nadani_077.md",
@@ -1009,8 +1013,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. Souřadnice"
+                "title": "11. Souřadnice",
+                "children": []
               },
               {
                 "filename": "tri_nadani_079.md",
@@ -1034,8 +1038,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. Svlaženost"
+                "title": "12. Svlaženost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_081.md",
@@ -1059,8 +1063,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. Odříkání"
+                "title": "13. Odříkání",
+                "children": []
               },
               {
                 "filename": "tri_nadani_083.md",
@@ -1084,8 +1088,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. Čisté dálky"
+                "title": "14. Čisté dálky",
+                "children": []
               },
               {
                 "filename": "tri_nadani_085.md",
@@ -1109,8 +1113,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. Přirozené oduševnění"
+                "title": "15. Přirozené oduševnění",
+                "children": []
               },
               {
                 "filename": "tri_nadani_087.md",
@@ -1134,8 +1138,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. Okrouhlá úplnost"
+                "title": "16. Okrouhlá úplnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_089.md",
@@ -1159,8 +1163,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. Tajemná hlubina"
+                "title": "17. Tajemná hlubina",
+                "children": []
               },
               {
                 "filename": "tri_nadani_091.md",
@@ -1184,8 +1188,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. Jasná čistota"
+                "title": "18. Jasná čistota",
+                "children": []
               },
               {
                 "filename": "tri_nadani_093.md",
@@ -1209,8 +1213,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19. Mocné vytasení"
+                "title": "19. Mocné vytasení",
+                "children": []
               },
               {
                 "filename": "tri_nadani_095.md",
@@ -1234,8 +1238,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "20. Úsporná čistota"
+                "title": "20. Úsporná čistota",
+                "children": []
               },
               {
                 "filename": "tri_nadani_097.md",
@@ -1259,8 +1263,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "21. Pozorná přičinlivost"
+                "title": "21. Pozorná přičinlivost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_099.md",
@@ -1284,8 +1288,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "22. Neohrožená pohotovost"
+                "title": "22. Neohrožená pohotovost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_101.md",
@@ -1309,8 +1313,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "23. Vyprázdněné oduševnění"
+                "title": "23. Vyprázdněné oduševnění",
+                "children": []
               },
               {
                 "filename": "tri_nadani_103.md",
@@ -1334,11 +1338,10 @@
                 "hungry": false,
                 "devoured": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "24. Oslnivý půvab"
+                "title": "24. Oslnivý půvab",
+                "children": []
               }
-            ],
-            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských"
+            ]
           },
           {
             "filename": "tri_nadani_105.md",
@@ -1350,6 +1353,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
             "children": [
               {
                 "filename": "tri_nadani_106.md",
@@ -1358,10 +1362,11 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": true,
+                "hungry": false,
                 "devoured": false,
-                "hiddenTitle": false,
-                "children": []
+                "hiddenTitle": true,
+                "children": [],
+                "title": "Předmluva"
               },
               {
                 "filename": "tri_nadani_107.md",
@@ -1373,8 +1378,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1. Ozvěna ducha"
+                "title": "1. Ozvěna ducha",
+                "children": []
               },
               {
                 "filename": "tri_nadani_108.md",
@@ -1398,8 +1403,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2. Starobylá krása"
+                "title": "2. Starobylá krása",
+                "children": []
               },
               {
                 "filename": "tri_nadani_110.md",
@@ -1423,8 +1428,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3. Živelnost"
+                "title": "3. Živelnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_112.md",
@@ -1448,8 +1453,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4. Mocný vzmach"
+                "title": "4. Mocný vzmach",
+                "children": []
               },
               {
                 "filename": "tri_nadani_114.md",
@@ -1473,8 +1478,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5. Čest a sláva"
+                "title": "5. Čest a sláva",
+                "children": []
               },
               {
                 "filename": "tri_nadani_116.md",
@@ -1498,8 +1503,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6. Oproštění"
+                "title": "6. Oproštění",
+                "children": []
               },
               {
                 "filename": "tri_nadani_118.md",
@@ -1523,8 +1528,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7. Velká tavba"
+                "title": "7. Velká tavba",
+                "children": []
               },
               {
                 "filename": "tri_nadani_120.md",
@@ -1548,8 +1553,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8. Rázné vytasení"
+                "title": "8. Rázné vytasení",
+                "children": []
               },
               {
                 "filename": "tri_nadani_122.md",
@@ -1573,8 +1578,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9. Pozorná vážnost"
+                "title": "9. Pozorná vážnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_124.md",
@@ -1598,8 +1603,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10. Nenucený půvab"
+                "title": "10. Nenucený půvab",
+                "children": []
               },
               {
                 "filename": "tri_nadani_126.md",
@@ -1623,8 +1628,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11. Úplnost nevysloveného"
+                "title": "11. Úplnost nevysloveného",
+                "children": []
               },
               {
                 "filename": "tri_nadani_128.md",
@@ -1648,8 +1653,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12. Tichá povznesenost"
+                "title": "12. Tichá povznesenost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_130.md",
@@ -1673,8 +1678,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13. Řemeslná jemnost"
+                "title": "13. Řemeslná jemnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_132.md",
@@ -1698,8 +1703,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14. Proměny"
+                "title": "14. Proměny",
+                "children": []
               },
               {
                 "filename": "tri_nadani_134.md",
@@ -1723,8 +1728,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15. Bez zábran"
+                "title": "15. Bez zábran",
+                "children": []
               },
               {
                 "filename": "tri_nadani_136.md",
@@ -1748,8 +1753,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16. Smysl pro rytmus"
+                "title": "16. Smysl pro rytmus",
+                "children": []
               },
               {
                 "filename": "tri_nadani_138.md",
@@ -1773,8 +1778,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17. Vzdušný tanec"
+                "title": "17. Vzdušný tanec",
+                "children": []
               },
               {
                 "filename": "tri_nadani_140.md",
@@ -1798,8 +1803,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18. Vzdalování"
+                "title": "18. Vzdalování",
+                "children": []
               },
               {
                 "filename": "tri_nadani_142.md",
@@ -1823,8 +1828,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19. Útlá křehkost"
+                "title": "19. Útlá křehkost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_144.md",
@@ -1848,8 +1853,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "20. Okrouhlá plnost"
+                "title": "20. Okrouhlá plnost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_146.md",
@@ -1873,8 +1878,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "21. Podivuhodná závrať"
+                "title": "21. Podivuhodná závrať",
+                "children": []
               },
               {
                 "filename": "tri_nadani_148.md",
@@ -1898,8 +1903,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "22. Rovnováha"
+                "title": "22. Rovnováha",
+                "children": []
               },
               {
                 "filename": "tri_nadani_150.md",
@@ -1923,8 +1928,8 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "23. Velkorysost"
+                "title": "23. Velkorysost",
+                "children": []
               },
               {
                 "filename": "tri_nadani_152.md",
@@ -1946,13 +1951,12 @@
                 "listType": "plain",
                 "inToc": true,
                 "hungry": false,
-                "devoured": false,
+                "devoured": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "24. Svůdnost"
+                "title": "24. Svůdnost",
+                "children": []
               }
-            ],
-            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických"
+            ]
           },
           {
             "filename": "tri_nadani_154.md",
@@ -1964,8 +1968,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "tri_nadani_155.md",
@@ -1977,8 +1981,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zápis a výslovnost čínských slov"
+            "title": "Zápis a výslovnost čínských slov",
+            "children": []
           },
           {
             "filename": "tri_nadani_156.md",
@@ -1992,8 +1996,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -3019,6 +3022,6 @@
       "user": "books-are-next",
       "repo": "tri-nadani-tri-nadani"
     },
-    "generatedAt": 1657818232817
+    "generatedAt": 1657818962061
   }
 }
