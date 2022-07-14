@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Šťasten   přešťasten chceš vyraziti  
+Šťasten   přešťasten chceš vyraziti  
 padat semtam stranou   davu by ses zbyl  
 Prázdná prázdeň   Dušeplná —  
-prapůvodní svazek dvou kosmických sil_
+prapůvodní svazek dvou kosmických sil
 
 </section>
 
 <section>
 
-_Kostra řídká je   a dech je hustý  
+Kostra řídká je   a dech je hustý  
 Vnějšek harmonický   vnitřek dvojaký  
 Z nadání se zvolna rytmus sbírá  
-Nezavírej před mhou   Ani před mraky_
+Nezavírej před mhou   Ani před mraky
 
 </section>
 
 <section>
 
-_Vyprchala vůně z ohřívadla  
+Vyprchala vůně z ohřívadla  
 Už v něm žádný oheň   Už jen řežavé  
 Kohout zpívá v špičce na moruši  
-Čistě nesen k nebi   Slyšen v dálavě_
+Čistě nesen k nebi   Slyšen v dálavě
 
 </section>
 
@@ -39,27 +39,27 @@ V poslední básni se autor obrací k podstatě. Veškerý oslnivý půvab jak
 
 <section>
 
-_Sloupoví a trámy   to je co tu stojí  
+Sloupoví a trámy   to je co tu stojí  
 oslnivý půvab počat v základech  
 Plavíš-li se po tušovém moři  
-toto je tvé plavby spolehlivý břeh_
+toto je tvé plavby spolehlivý břeh
 
 </section>
 
 <section>
 
-_Jeho půvab oblaží nás slastí  
+Jeho půvab oblaží nás slastí  
 uhrančivý svádí sladkým kouzlem svým  
 Já však jemnou   křehkou dřeň si hýčkám  
-Aniž nepohlednou tvář si ošklivím_
+Aniž nepohlednou tvář si ošklivím
 
 </section>
 
 <section>
 
-_Je to jako dcerka krasavice  
+Je to jako dcerka krasavice  
 Je to jako podařený syn  
 Je v tvé moci snad je nemilovat?  
-K smíchu krása   Velikost   Co s tím?_
+K smíchu krása   Velikost   Co s tím?
 
 </section>

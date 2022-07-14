@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Duch je provždy boháč   Urozenost sama  
+Duch je provždy boháč   Urozenost sama  
 marně zlato doufá   že ho oslepí  
 Neb co jednou bujné   hyne s prvním suchem  
-Co se zdálo útlé   přehluboko dlí_
+Co se zdálo útlé   přehluboko dlí
 
 </section>
 
 <section>
 
-_Břehy postříbřené zbylou tříští rosy  
+Břehy postříbřené zbylou tříští rosy  
 Meruňková červeň kmitá ze křovin  
 Rozsvícený lunou   sličný dům se vzpíná  
-Přes most malovaný smaragdový stín_
+Přes most malovaný smaragdový stín
 
 </section>
 
 <section>
 
-_Po kraj plné čeká v zlatých číších víno  
+Po kraj plné čeká v zlatých číších víno  
 Kdo se první chopí loutny pro hosty?  
 A to pak už samo bezezbytku stačí  
-bychom přemoženi krásnou libostí_
+bychom přemoženi krásnou libostí
 
 </section>
 

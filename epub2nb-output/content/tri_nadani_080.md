@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Libovolně nelze poroučet si  
+Libovolně nelze poroučet si  
 vichr ani liják   ani hrombití  
 A přec široširý azur všude kolem  
-A přec je v tvé moci se ho zmocniti_
+A přec je v tvé moci se ho zmocniti
 
 </section>
 
 <section>
 
-_Vyschne-li však inspirace   vrať se  
+Vyschne-li však inspirace   vrať se  
 nenasytnost vláčí ducha k úpadu  
 Nedopusť   se přesytiti tuší  
-Dbej aby tvůj štětec věčně o hladu_
+Dbej aby tvůj štětec věčně o hladu
 
 </section>
 
 <section>
 
-_Vůně vína schopná zahnat chandru  
+Vůně vína schopná zahnat chandru  
 Chuť   a půvab knihy probouzí náš cit  
 Slast a radost z takovéhle chvíle  
-nelze u nikoho ničím předplatit_
+nelze u nikoho ničím předplatit
 
 </section>
 

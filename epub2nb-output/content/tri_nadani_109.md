@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Citujem paní Wei   Citujeme Zhonga  
+Citujem paní Wei   Citujeme Zhonga  
 Citujeme Xi i Xiana  
 Úhly   míry   nejsou ale ničím  
-Jejich síla v duchu beze dna_
+Jejich síla v duchu beze dna
 
 </section>
 
 <section>
 
-_Dávno zašlé hanské weiské barvy  
+Dávno zašlé hanské weiské barvy  
 Zteřely i jinské tangské hedváby  
 Jako kdyby z krásy jen ta vůně  
-popínavá   prchlá zbyla by_
+popínavá   prchlá zbyla by
 
 </section>
 
 <section>
 
-_Citera ač zhroutila se v ohni  
+Citera ač zhroutila se v ohni  
 Orchideje v polích orvány  
 Vrátit se k Třem starým dynastiím  
-To je moje přání nad přání_
+To je moje přání nad přání
 
 </section>
 

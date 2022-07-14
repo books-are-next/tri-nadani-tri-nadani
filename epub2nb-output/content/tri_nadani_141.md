@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Mírný smírný vánek čechrá lesy  
+Mírný smírný vánek čechrá lesy  
 pod vějíři stromů tráva kloní hřbet  
 Starý břeh   a tu a tam pár květin  
-Volavka si hoví v luzích uprostřed_
+Volavka si hoví v luzích uprostřed
 
 </section>
 
 <section>
 
-_Tajemství tak náhle vyjeví se  
+Tajemství tak náhle vyjeví se  
 na dosavad bílé stopě hedvábí  
 Myšlenky tvé na chrám   na loubí se tratí  
-Vize hor a lesů si tě přivábí_
+Vize hor a lesů si tě přivábí
 
 </section>
 
 <section>
 
-_Do daleké tůně upustíš hůl ke dnu  
+Do daleké tůně upustíš hůl ke dnu  
 Staneš   když tě vršky náhle dohoní  
 Daleká je starost   Hluboko je žádost  
-Ptej se   kterým směrem Pramen broskvoní_
+Ptej se   kterým směrem Pramen broskvoní
 
 </section>
 

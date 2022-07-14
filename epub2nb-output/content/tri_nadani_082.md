@@ -5,28 +5,28 @@ contentType: poetry
 
 <section>
 
-_Těm   kteří si nepěstují vnějšek  
+Těm   kteří si nepěstují vnějšek  
 vnitřní krása ubýt nemůže  
 Hrubý šat a nepěstěná hlava  
-povždy znakem slávy pro muže_
+povždy znakem slávy pro muže
 
 </section>
 
 <section>
 
-_Spletené   se zpustlé řeky kříží  
+Spletené   se zpustlé řeky kříží  
 hory plné strmých rozeklaných stěn  
 Tmoucí   sytě tyrkysový rákos  
-Jinovatka   než ji rozsvěcuje den_
+Jinovatka   než ji rozsvěcuje den
 
 </section>
 
 <section>
 
-_Jdi   Opláchni olovo a štětec  
+Jdi   Opláchni olovo a štětec  
 k svému jménu   k poctám nevšímavý buď  
 Pravý dobrý čaj si uchová svou sladkost  
-Olivy až pozdně přiznávají chuť_
+Olivy až pozdně přiznávají chuť
 
 </section>
 
