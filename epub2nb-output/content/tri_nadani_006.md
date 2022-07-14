@@ -1,6 +1,6 @@
 ---
 title: "Poznámka k\_překladu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

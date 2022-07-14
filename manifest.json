@@ -1,0 +1,1747 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Tři nadání",
+  "author": "O. Král a K. Šiktanc (překlad)",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "preklad-tri-nadani-7f6077f",
+  "revision": "7f6077f",
+  "readingOrder": [
+    "promo.html",
+    "tri_nadani_005.html",
+    "tri_nadani_006.html",
+    "tri_nadani_007.html",
+    "tri_nadani_008.html",
+    "tri_nadani_009.html",
+    "tri_nadani_011.html",
+    "tri_nadani_013.html",
+    "tri_nadani_015.html",
+    "tri_nadani_017.html",
+    "tri_nadani_019.html",
+    "tri_nadani_021.html",
+    "tri_nadani_023.html",
+    "tri_nadani_025.html",
+    "tri_nadani_027.html",
+    "tri_nadani_029.html",
+    "tri_nadani_031.html",
+    "tri_nadani_033.html",
+    "tri_nadani_035.html",
+    "tri_nadani_037.html",
+    "tri_nadani_039.html",
+    "tri_nadani_041.html",
+    "tri_nadani_043.html",
+    "tri_nadani_045.html",
+    "tri_nadani_047.html",
+    "tri_nadani_049.html",
+    "tri_nadani_051.html",
+    "tri_nadani_053.html",
+    "tri_nadani_056.html",
+    "tri_nadani_057.html",
+    "tri_nadani_058.html",
+    "tri_nadani_060.html",
+    "tri_nadani_062.html",
+    "tri_nadani_064.html",
+    "tri_nadani_066.html",
+    "tri_nadani_068.html",
+    "tri_nadani_070.html",
+    "tri_nadani_072.html",
+    "tri_nadani_074.html",
+    "tri_nadani_076.html",
+    "tri_nadani_078.html",
+    "tri_nadani_080.html",
+    "tri_nadani_082.html",
+    "tri_nadani_084.html",
+    "tri_nadani_086.html",
+    "tri_nadani_088.html",
+    "tri_nadani_090.html",
+    "tri_nadani_092.html",
+    "tri_nadani_094.html",
+    "tri_nadani_096.html",
+    "tri_nadani_098.html",
+    "tri_nadani_100.html",
+    "tri_nadani_102.html",
+    "tri_nadani_105.html",
+    "tri_nadani_106.html",
+    "tri_nadani_107.html",
+    "tri_nadani_109.html",
+    "tri_nadani_111.html",
+    "tri_nadani_113.html",
+    "tri_nadani_115.html",
+    "tri_nadani_117.html",
+    "tri_nadani_119.html",
+    "tri_nadani_121.html",
+    "tri_nadani_123.html",
+    "tri_nadani_125.html",
+    "tri_nadani_127.html",
+    "tri_nadani_129.html",
+    "tri_nadani_131.html",
+    "tri_nadani_133.html",
+    "tri_nadani_135.html",
+    "tri_nadani_137.html",
+    "tri_nadani_139.html",
+    "tri_nadani_141.html",
+    "tri_nadani_143.html",
+    "tri_nadani_145.html",
+    "tri_nadani_147.html",
+    "tri_nadani_149.html",
+    "tri_nadani_151.html",
+    "tri_nadani_153.html",
+    "tri_nadani_154.html",
+    "tri_nadani_155.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 14 2022 17:05:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657818317876
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "tri_nadani_005.html",
+      "toc": []
+    },
+    {
+      "title": "Předmluva",
+      "file": "tri_nadani_005.html",
+      "words": 672,
+      "chars": 4549,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "tri_nadani_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka k překladu",
+      "file": "tri_nadani_006.html",
+      "words": 451,
+      "chars": 2880,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "tri_nadani_005.html",
+      "next": "tri_nadani_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka k překladu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sikong Tu Dvacet čtyři básnío vlastnostechbásnických",
+      "file": "tri_nadani_007.html",
+      "words": 6,
+      "chars": 52,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "tri_nadani_006.html",
+      "next": "tri_nadani_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sikong Tu Dvacet čtyři básnío vlastnostechbásnických",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři nadání",
+      "file": "tri_nadani_008.html",
+      "words": 663,
+      "chars": 4387,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 4,
+      "prev": "tri_nadani_007.html",
+      "next": "tri_nadani_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Majestátní úplnost",
+      "file": "tri_nadani_009.html",
+      "words": 307,
+      "chars": 1970,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 5,
+      "prev": "tri_nadani_008.html",
+      "next": "tri_nadani_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Majestátní úplnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Smírná odtažitost",
+      "file": "tri_nadani_011.html",
+      "words": 237,
+      "chars": 1422,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 6,
+      "prev": "tri_nadani_009.html",
+      "next": "tri_nadani_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Smírná odtažitost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Pestrost a kyprost",
+      "file": "tri_nadani_013.html",
+      "words": 235,
+      "chars": 1381,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 7,
+      "prev": "tri_nadani_011.html",
+      "next": "tri_nadani_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Pestrost a kyprost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Sebevědomá pohrouženost",
+      "file": "tri_nadani_015.html",
+      "words": 333,
+      "chars": 1985,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 8,
+      "prev": "tri_nadani_013.html",
+      "next": "tri_nadani_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Sebevědomá pohrouženost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Vznešená starobylost",
+      "file": "tri_nadani_017.html",
+      "words": 248,
+      "chars": 1546,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 9,
+      "prev": "tri_nadani_015.html",
+      "next": "tri_nadani_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Vznešená starobylost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. Klasická krása",
+      "file": "tri_nadani_019.html",
+      "words": 157,
+      "chars": 967,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "tri_nadani_017.html",
+      "next": "tri_nadani_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. Klasická krása",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Ryzost",
+      "file": "tri_nadani_021.html",
+      "words": 263,
+      "chars": 1557,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "tri_nadani_019.html",
+      "next": "tri_nadani_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Ryzost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. Mocná síla",
+      "file": "tri_nadani_023.html",
+      "words": 231,
+      "chars": 1356,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "tri_nadani_021.html",
+      "next": "tri_nadani_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. Mocná síla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Zdobná sličnost",
+      "file": "tri_nadani_025.html",
+      "words": 216,
+      "chars": 1413,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 13,
+      "prev": "tri_nadani_023.html",
+      "next": "tri_nadani_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. Zdobná sličnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. Sama přirozenost",
+      "file": "tri_nadani_027.html",
+      "words": 239,
+      "chars": 1461,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "tri_nadani_025.html",
+      "next": "tri_nadani_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. Sama přirozenost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. Zdrženlivost",
+      "file": "tri_nadani_029.html",
+      "words": 215,
+      "chars": 1331,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 15,
+      "prev": "tri_nadani_027.html",
+      "next": "tri_nadani_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. Zdrženlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. Nespoutanost",
+      "file": "tri_nadani_031.html",
+      "words": 352,
+      "chars": 2141,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 16,
+      "prev": "tri_nadani_029.html",
+      "next": "tri_nadani_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. Nespoutanost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. Duše a podstata",
+      "file": "tri_nadani_033.html",
+      "words": 192,
+      "chars": 1236,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 17,
+      "prev": "tri_nadani_031.html",
+      "next": "tri_nadani_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. Duše a podstata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. Předivo jemnosti",
+      "file": "tri_nadani_035.html",
+      "words": 234,
+      "chars": 1433,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "tri_nadani_033.html",
+      "next": "tri_nadani_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. Předivo jemnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. Bezstarostná prostota",
+      "file": "tri_nadani_037.html",
+      "words": 210,
+      "chars": 1278,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "tri_nadani_035.html",
+      "next": "tri_nadani_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. Bezstarostná prostota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. Jasná výjimečnost",
+      "file": "tri_nadani_039.html",
+      "words": 297,
+      "chars": 1903,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "tri_nadani_037.html",
+      "next": "tri_nadani_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. Jasná výjimečnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. Proměnlivost",
+      "file": "tri_nadani_041.html",
+      "words": 268,
+      "chars": 1530,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "tri_nadani_039.html",
+      "next": "tri_nadani_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. Proměnlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. Skutečnost",
+      "file": "tri_nadani_043.html",
+      "words": 212,
+      "chars": 1273,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 22,
+      "prev": "tri_nadani_041.html",
+      "next": "tri_nadani_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. Skutečnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. Smutek",
+      "file": "tri_nadani_045.html",
+      "words": 292,
+      "chars": 1702,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "tri_nadani_043.html",
+      "next": "tri_nadani_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. Smutek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. Obraznost",
+      "file": "tri_nadani_047.html",
+      "words": 225,
+      "chars": 1489,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 24,
+      "prev": "tri_nadani_045.html",
+      "next": "tri_nadani_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. Obraznost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. Překračování",
+      "file": "tri_nadani_049.html",
+      "words": 220,
+      "chars": 1288,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "tri_nadani_047.html",
+      "next": "tri_nadani_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. Překračování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. Plynutí",
+      "file": "tri_nadani_051.html",
+      "words": 240,
+      "chars": 1419,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 26,
+      "prev": "tri_nadani_049.html",
+      "next": "tri_nadani_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. Plynutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. Nadhled",
+      "file": "tri_nadani_053.html",
+      "words": 328,
+      "chars": 1848,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 27,
+      "prev": "tri_nadani_051.html",
+      "next": "tri_nadani_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. Nadhled",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Huang Yue Dvacet čtyři básnío vlastnostechmalířských",
+      "file": "tri_nadani_056.html",
+      "words": 6,
+      "chars": 52,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "tri_nadani_053.html",
+      "next": "tri_nadani_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Huang Yue Dvacet čtyři básnío vlastnostechmalířských",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři nadání",
+      "file": "tri_nadani_057.html",
+      "words": 644,
+      "chars": 4198,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 29,
+      "prev": "tri_nadani_056.html",
+      "next": "tri_nadani_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Ozvěna dechu",
+      "file": "tri_nadani_058.html",
+      "words": 270,
+      "chars": 1622,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 30,
+      "prev": "tri_nadani_057.html",
+      "next": "tri_nadani_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Ozvěna dechu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Oduševnělé mistrovství",
+      "file": "tri_nadani_060.html",
+      "words": 392,
+      "chars": 2526,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 31,
+      "prev": "tri_nadani_058.html",
+      "next": "tri_nadani_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Oduševnělé mistrovství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Vznešená starobylost",
+      "file": "tri_nadani_062.html",
+      "words": 218,
+      "chars": 1334,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 32,
+      "prev": "tri_nadani_060.html",
+      "next": "tri_nadani_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Vznešená starobylost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Blankyt a vláha",
+      "file": "tri_nadani_064.html",
+      "words": 288,
+      "chars": 1687,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 33,
+      "prev": "tri_nadani_062.html",
+      "next": "tri_nadani_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Blankyt a vláha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Majestát síly",
+      "file": "tri_nadani_066.html",
+      "words": 247,
+      "chars": 1437,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 34,
+      "prev": "tri_nadani_064.html",
+      "next": "tri_nadani_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Majestát síly",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. Harmonie",
+      "file": "tri_nadani_068.html",
+      "words": 263,
+      "chars": 1579,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 35,
+      "prev": "tri_nadani_066.html",
+      "next": "tri_nadani_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. Harmonie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Tiché ústraní",
+      "file": "tri_nadani_070.html",
+      "words": 223,
+      "chars": 1385,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "tri_nadani_068.html",
+      "next": "tri_nadani_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Tiché ústraní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. Původní prostota",
+      "file": "tri_nadani_072.html",
+      "words": 231,
+      "chars": 1515,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 37,
+      "prev": "tri_nadani_070.html",
+      "next": "tri_nadani_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. Původní prostota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Transcendence",
+      "file": "tri_nadani_074.html",
+      "words": 245,
+      "chars": 1502,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 38,
+      "prev": "tri_nadani_072.html",
+      "next": "tri_nadani_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. Transcendence",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. Podivuhodné otevření",
+      "file": "tri_nadani_076.html",
+      "words": 249,
+      "chars": 1429,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 39,
+      "prev": "tri_nadani_074.html",
+      "next": "tri_nadani_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. Podivuhodné otevření",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. Souřadnice",
+      "file": "tri_nadani_078.html",
+      "words": 256,
+      "chars": 1425,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 40,
+      "prev": "tri_nadani_076.html",
+      "next": "tri_nadani_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. Souřadnice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. Svlaženost",
+      "file": "tri_nadani_080.html",
+      "words": 201,
+      "chars": 1214,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 41,
+      "prev": "tri_nadani_078.html",
+      "next": "tri_nadani_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. Svlaženost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. Odříkání",
+      "file": "tri_nadani_082.html",
+      "words": 213,
+      "chars": 1356,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 42,
+      "prev": "tri_nadani_080.html",
+      "next": "tri_nadani_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. Odříkání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. Čisté dálky",
+      "file": "tri_nadani_084.html",
+      "words": 299,
+      "chars": 1887,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 43,
+      "prev": "tri_nadani_082.html",
+      "next": "tri_nadani_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. Čisté dálky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. Přirozené oduševnění",
+      "file": "tri_nadani_086.html",
+      "words": 166,
+      "chars": 987,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 44,
+      "prev": "tri_nadani_084.html",
+      "next": "tri_nadani_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. Přirozené oduševnění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. Okrouhlá úplnost",
+      "file": "tri_nadani_088.html",
+      "words": 194,
+      "chars": 1115,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 45,
+      "prev": "tri_nadani_086.html",
+      "next": "tri_nadani_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. Okrouhlá úplnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. Tajemná hlubina",
+      "file": "tri_nadani_090.html",
+      "words": 226,
+      "chars": 1321,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 46,
+      "prev": "tri_nadani_088.html",
+      "next": "tri_nadani_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. Tajemná hlubina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. Jasná čistota",
+      "file": "tri_nadani_092.html",
+      "words": 201,
+      "chars": 1229,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 47,
+      "prev": "tri_nadani_090.html",
+      "next": "tri_nadani_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. Jasná čistota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. Mocné vytasení",
+      "file": "tri_nadani_094.html",
+      "words": 371,
+      "chars": 2351,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 48,
+      "prev": "tri_nadani_092.html",
+      "next": "tri_nadani_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. Mocné vytasení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. Úsporná čistota",
+      "file": "tri_nadani_096.html",
+      "words": 255,
+      "chars": 1573,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 49,
+      "prev": "tri_nadani_094.html",
+      "next": "tri_nadani_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. Úsporná čistota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. Pozorná přičinlivost",
+      "file": "tri_nadani_098.html",
+      "words": 194,
+      "chars": 1112,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 50,
+      "prev": "tri_nadani_096.html",
+      "next": "tri_nadani_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. Pozorná přičinlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. Neohrožená pohotovost",
+      "file": "tri_nadani_100.html",
+      "words": 292,
+      "chars": 1788,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 51,
+      "prev": "tri_nadani_098.html",
+      "next": "tri_nadani_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. Neohrožená pohotovost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. Vyprázdněné oduševnění",
+      "file": "tri_nadani_102.html",
+      "words": 338,
+      "chars": 2003,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 52,
+      "prev": "tri_nadani_100.html",
+      "next": "tri_nadani_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. Vyprázdněné oduševnění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Yang Jingzeng Dvacet čtyři básnío vlastnostechkaligrafických",
+      "file": "tri_nadani_105.html",
+      "words": 6,
+      "chars": 60,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 53,
+      "prev": "tri_nadani_102.html",
+      "next": "tri_nadani_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Yang Jingzeng Dvacet čtyři básnío vlastnostechkaligrafických",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři nadání",
+      "file": "tri_nadani_106.html",
+      "words": 489,
+      "chars": 3309,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 54,
+      "prev": "tri_nadani_105.html",
+      "next": "tri_nadani_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Ozvěna ducha",
+      "file": "tri_nadani_107.html",
+      "words": 342,
+      "chars": 2096,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 55,
+      "prev": "tri_nadani_106.html",
+      "next": "tri_nadani_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Ozvěna ducha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Starobylá krása",
+      "file": "tri_nadani_109.html",
+      "words": 291,
+      "chars": 1756,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 56,
+      "prev": "tri_nadani_107.html",
+      "next": "tri_nadani_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Starobylá krása",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Živelnost",
+      "file": "tri_nadani_111.html",
+      "words": 202,
+      "chars": 1191,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 57,
+      "prev": "tri_nadani_109.html",
+      "next": "tri_nadani_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Živelnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Mocný vzmach",
+      "file": "tri_nadani_113.html",
+      "words": 155,
+      "chars": 897,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 58,
+      "prev": "tri_nadani_111.html",
+      "next": "tri_nadani_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. Mocný vzmach",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. Čest a sláva",
+      "file": "tri_nadani_115.html",
+      "words": 181,
+      "chars": 983,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 59,
+      "prev": "tri_nadani_113.html",
+      "next": "tri_nadani_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. Čest a sláva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. Oproštění",
+      "file": "tri_nadani_117.html",
+      "words": 245,
+      "chars": 1450,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 60,
+      "prev": "tri_nadani_115.html",
+      "next": "tri_nadani_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. Oproštění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Velká tavba",
+      "file": "tri_nadani_119.html",
+      "words": 182,
+      "chars": 1138,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 61,
+      "prev": "tri_nadani_117.html",
+      "next": "tri_nadani_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Velká tavba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. Rázné vytasení",
+      "file": "tri_nadani_121.html",
+      "words": 243,
+      "chars": 1483,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 62,
+      "prev": "tri_nadani_119.html",
+      "next": "tri_nadani_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. Rázné vytasení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Pozorná vážnost",
+      "file": "tri_nadani_123.html",
+      "words": 208,
+      "chars": 1284,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 63,
+      "prev": "tri_nadani_121.html",
+      "next": "tri_nadani_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. Pozorná vážnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. Nenucený půvab",
+      "file": "tri_nadani_125.html",
+      "words": 182,
+      "chars": 1038,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 64,
+      "prev": "tri_nadani_123.html",
+      "next": "tri_nadani_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. Nenucený půvab",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. Úplnost nevysloveného",
+      "file": "tri_nadani_127.html",
+      "words": 178,
+      "chars": 1045,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 65,
+      "prev": "tri_nadani_125.html",
+      "next": "tri_nadani_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. Úplnost nevysloveného",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. Tichá povznesenost",
+      "file": "tri_nadani_129.html",
+      "words": 249,
+      "chars": 1437,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 66,
+      "prev": "tri_nadani_127.html",
+      "next": "tri_nadani_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. Tichá povznesenost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. Řemeslná jemnost",
+      "file": "tri_nadani_131.html",
+      "words": 282,
+      "chars": 1600,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 67,
+      "prev": "tri_nadani_129.html",
+      "next": "tri_nadani_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. Řemeslná jemnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. Proměny",
+      "file": "tri_nadani_133.html",
+      "words": 252,
+      "chars": 1481,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 68,
+      "prev": "tri_nadani_131.html",
+      "next": "tri_nadani_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. Proměny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. Bez zábran",
+      "file": "tri_nadani_135.html",
+      "words": 214,
+      "chars": 1361,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 69,
+      "prev": "tri_nadani_133.html",
+      "next": "tri_nadani_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. Bez zábran",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. Smysl pro rytmus",
+      "file": "tri_nadani_137.html",
+      "words": 243,
+      "chars": 1498,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 70,
+      "prev": "tri_nadani_135.html",
+      "next": "tri_nadani_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. Smysl pro rytmus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. Vzdušný tanec",
+      "file": "tri_nadani_139.html",
+      "words": 262,
+      "chars": 1594,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 71,
+      "prev": "tri_nadani_137.html",
+      "next": "tri_nadani_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. Vzdušný tanec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. Vzdalování",
+      "file": "tri_nadani_141.html",
+      "words": 294,
+      "chars": 1814,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 72,
+      "prev": "tri_nadani_139.html",
+      "next": "tri_nadani_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. Vzdalování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. Útlá křehkost",
+      "file": "tri_nadani_143.html",
+      "words": 276,
+      "chars": 1572,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 73,
+      "prev": "tri_nadani_141.html",
+      "next": "tri_nadani_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. Útlá křehkost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. Okrouhlá plnost",
+      "file": "tri_nadani_145.html",
+      "words": 187,
+      "chars": 1117,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 74,
+      "prev": "tri_nadani_143.html",
+      "next": "tri_nadani_147.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. Okrouhlá plnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. Podivuhodná závrať",
+      "file": "tri_nadani_147.html",
+      "words": 181,
+      "chars": 1084,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 75,
+      "prev": "tri_nadani_145.html",
+      "next": "tri_nadani_149.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. Podivuhodná závrať",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. Rovnováha",
+      "file": "tri_nadani_149.html",
+      "words": 190,
+      "chars": 1096,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 76,
+      "prev": "tri_nadani_147.html",
+      "next": "tri_nadani_151.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. Rovnováha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. Velkorysost",
+      "file": "tri_nadani_151.html",
+      "words": 224,
+      "chars": 1268,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 77,
+      "prev": "tri_nadani_149.html",
+      "next": "tri_nadani_153.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. Velkorysost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24. Svůdnost",
+      "file": "tri_nadani_153.html",
+      "words": 64,
+      "chars": 397,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 78,
+      "prev": "tri_nadani_151.html",
+      "next": "tri_nadani_154.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24. Svůdnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "tri_nadani_154.html",
+      "words": 195,
+      "chars": 1314,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 79,
+      "prev": "tri_nadani_153.html",
+      "next": "tri_nadani_155.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zápis a výslovnost čínských slov",
+      "file": "tri_nadani_155.html",
+      "words": 237,
+      "chars": 1415,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 80,
+      "prev": "tri_nadani_154.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zápis a výslovnost čínských slov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 148,
+      "chars": 944,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "tri_nadani_155.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 20436,
+      "chars": 125200,
+      "ideas": 1076
+    },
+    "chapters": {
+      "words": 20279,
+      "chars": 124202,
+      "ideas": 1055
+    }
+  }
+}

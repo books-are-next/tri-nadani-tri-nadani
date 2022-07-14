@@ -1,6 +1,6 @@
 ---
 title: Ediční poznámka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
