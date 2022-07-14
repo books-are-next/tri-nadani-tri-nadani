@@ -92,7 +92,6 @@ readingOrder:
   - tri_nadani_147.html
   - tri_nadani_149.html
   - tri_nadani_151.html
-  - tri_nadani_153.html
   - tri_nadani_154.html
   - tri_nadani_155.html
   - about.html
@@ -109,6 +108,9 @@ tocBase:
         title: "Sikong Tu\_Dvacet čtyři básní o\_vlastnostech básnických "
         hiddenTitle: false
         children:
+          - link: tri_nadani_008.html
+            title: Předmluva
+            hiddenTitle: true
           - link: tri_nadani_009.html
             title: "1.\_Majestátní úplnost"
             hiddenTitle: false
@@ -186,6 +188,9 @@ tocBase:
         title: "Huang Yue\_Dvacet čtyři básní o\_vlastnostech malířských"
         hiddenTitle: false
         children:
+          - link: tri_nadani_057.html
+            title: Předmluva
+            hiddenTitle: true
           - link: tri_nadani_058.html
             title: "1.\_Ozvěna dechu"
             hiddenTitle: false
@@ -263,6 +268,9 @@ tocBase:
         title: "Yang Jingzeng\_Dvacet čtyři básní o\_vlastnostech kaligrafických"
         hiddenTitle: false
         children:
+          - link: tri_nadani_106.html
+            title: Předmluva
+            hiddenTitle: true
           - link: tri_nadani_107.html
             title: "1.\_Ozvěna ducha"
             hiddenTitle: false
