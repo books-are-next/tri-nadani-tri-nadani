@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "preklad-tri-nadani-ba67cd0",
-  "revision": "ba67cd0",
+  "identifier": "preklad-tri-nadani-6b6f0d3",
+  "revision": "6b6f0d3",
   "readingOrder": [
     "promo.html",
     "tri_nadani_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:29:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413777651
+    "date": "Thu Sep 29 2022 21:37:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487437776
   },
   "documents": [
     {
