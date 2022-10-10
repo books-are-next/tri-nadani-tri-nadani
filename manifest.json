@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "preklad-tri-nadani-695397d",
-  "revision": "695397d",
+  "identifier": "preklad-tri-nadani-e49a8e1",
+  "revision": "e49a8e1",
   "readingOrder": [
     "promo.html",
     "tri_nadani_005.html",
@@ -94,8 +94,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151847890
+    "date": "Mon Oct 10 2022 16:02:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417778586
   },
   "documents": [
     {
@@ -1694,7 +1694,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 148,
-      "chars": 944,
+      "chars": 945,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1714,7 +1714,7 @@
   "totals": {
     "all": {
       "words": 20435,
-      "chars": 125183,
+      "chars": 125184,
       "ideas": 1075
     },
     "chapters": {
