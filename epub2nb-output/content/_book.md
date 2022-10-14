@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2821-2
 readingOrder:
   - promo.html
   - tri_nadani_005.html
