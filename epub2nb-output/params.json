@@ -124,7 +124,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických ",
+            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických ",
             "children": [
               {
                 "filename": "tri_nadani_008.md",
@@ -739,7 +739,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
+            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
             "children": [
               {
                 "filename": "tri_nadani_057.md",
@@ -839,7 +839,7 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "title": "4. Blankyt a vláha",
+                "title": "4. Blankyt a vláha",
                 "children": []
               },
               {
@@ -1354,7 +1354,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
+            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
             "children": [
               {
                 "filename": "tri_nadani_106.md",
@@ -1479,7 +1479,7 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "title": "5. Čest a sláva",
+                "title": "5. Čest a sláva",
                 "children": []
               },
               {
@@ -1982,7 +1982,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Zápis a výslovnost čínských slov",
+            "title": "Zápis a výslovnost čínských slov",
             "children": []
           },
           {
@@ -3023,6 +3023,6 @@
       "user": "books-are-next",
       "repo": "tri-nadani-tri-nadani"
     },
-    "generatedAt": 1666351467056
+    "generatedAt": 1666375287356
   }
 }

@@ -106,7 +106,7 @@ tocBase:
         title: "Poznámka k\_překladu"
         hiddenTitle: false
       - link: tri_nadani_007.html
-        title: "Sikong Tu\_Dvacet čtyři básní o\_vlastnostech básnických "
+        title: 'Sikong Tu Dvacet čtyři básní o vlastnostech básnických '
         hiddenTitle: false
         children:
           - link: tri_nadani_008.html
@@ -186,7 +186,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: tri_nadani_056.html
-        title: "Huang Yue\_Dvacet čtyři básní o\_vlastnostech malířských"
+        title: Huang Yue Dvacet čtyři básní o vlastnostech malířských
         hiddenTitle: false
         children:
           - link: tri_nadani_057.html
@@ -202,7 +202,7 @@ tocBase:
             title: "3.\_Vznešená starobylost"
             hiddenTitle: false
           - link: tri_nadani_064.html
-            title: "4.\_Blankyt a\_vláha"
+            title: "4.\_Blankyt a vláha"
             hiddenTitle: false
           - link: tri_nadani_066.html
             title: "5.\_Majestát síly"
@@ -266,7 +266,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
       - link: tri_nadani_105.html
-        title: "Yang Jingzeng\_Dvacet čtyři básní o\_vlastnostech kaligrafických"
+        title: Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických
         hiddenTitle: false
         children:
           - link: tri_nadani_106.html
@@ -285,7 +285,7 @@ tocBase:
             title: "4.\_Mocný vzmach"
             hiddenTitle: false
           - link: tri_nadani_115.html
-            title: "5.\_Čest a\_sláva"
+            title: "5.\_Čest a sláva"
             hiddenTitle: false
           - link: tri_nadani_117.html
             title: "6.\_Oproštění"
@@ -349,7 +349,7 @@ tocBase:
         title: Ediční poznámka
         hiddenTitle: false
       - link: tri_nadani_155.html
-        title: "Zápis a\_výslovnost čínských slov"
+        title: Zápis a výslovnost čínských slov
         hiddenTitle: false
     isSection: true
     listType: plain
