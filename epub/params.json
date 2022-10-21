@@ -124,7 +124,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických ",
+            "title": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických ",
             "children": [
               {
                 "filename": "tri_nadani_008.md",
@@ -739,7 +739,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
+            "title": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
             "children": [
               {
                 "filename": "tri_nadani_057.md",
@@ -839,7 +839,7 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "title": "4. Blankyt a vláha",
+                "title": "4. Blankyt a vláha",
                 "children": []
               },
               {
@@ -1354,7 +1354,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
+            "title": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
             "children": [
               {
                 "filename": "tri_nadani_106.md",
@@ -1479,7 +1479,7 @@
                 "hungry": true,
                 "devoured": false,
                 "hiddenTitle": false,
-                "title": "5. Čest a sláva",
+                "title": "5. Čest a sláva",
                 "children": []
               },
               {
@@ -1982,7 +1982,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Zápis a výslovnost čínských slov",
+            "title": "Zápis a výslovnost čínských slov",
             "children": []
           },
           {
@@ -2042,13 +2042,13 @@
         "xhtml": "tri_nadani_005.xhtml"
       },
       {
-        "titleSuggest": "Poznámka k překladu",
+        "titleSuggest": "Poznámka k překladu",
         "subtitleSuggest": "",
         "filename": "tri_nadani_006.md",
         "xhtml": "tri_nadani_006.xhtml"
       },
       {
-        "titleSuggest": "Sikong Tu Dvacet čtyři básnío vlastnostechbásnických",
+        "titleSuggest": "Sikong Tu Dvacet čtyři básní o vlastnostech básnických",
         "subtitleSuggest": "",
         "filename": "tri_nadani_007.md",
         "xhtml": "tri_nadani_007.xhtml"
@@ -2084,7 +2084,7 @@
         "xhtml": "tri_nadani_012.xhtml"
       },
       {
-        "titleSuggest": "3\\. Pestrost a kyprost",
+        "titleSuggest": "3\\. Pestrost a kyprost",
         "subtitleSuggest": "",
         "filename": "tri_nadani_013.md",
         "xhtml": "tri_nadani_013.xhtml"
@@ -2204,7 +2204,7 @@
         "xhtml": "tri_nadani_032.xhtml"
       },
       {
-        "titleSuggest": "13\\. Duše a podstata",
+        "titleSuggest": "13\\. Duše a podstata",
         "subtitleSuggest": "",
         "filename": "tri_nadani_033.md",
         "xhtml": "tri_nadani_033.xhtml"
@@ -2342,7 +2342,7 @@
         "xhtml": "tri_nadani_055.xhtml"
       },
       {
-        "titleSuggest": "Huang Yue Dvacet čtyři básnío vlastnostechmalířských",
+        "titleSuggest": "Huang Yue Dvacet čtyři básní o vlastnostech malířských",
         "subtitleSuggest": "",
         "filename": "tri_nadani_056.md",
         "xhtml": "tri_nadani_056.xhtml"
@@ -2390,7 +2390,7 @@
         "xhtml": "tri_nadani_063.xhtml"
       },
       {
-        "titleSuggest": "4\\. Blankyt a vláha",
+        "titleSuggest": "4\\. Blankyt a vláha",
         "subtitleSuggest": "",
         "filename": "tri_nadani_064.md",
         "xhtml": "tri_nadani_064.xhtml"
@@ -2636,7 +2636,7 @@
         "xhtml": "tri_nadani_104.xhtml"
       },
       {
-        "titleSuggest": "Yang Jingzeng Dvacet čtyři básnío vlastnostechkaligrafických",
+        "titleSuggest": "Yang Jingzeng Dvacet čtyři básní o vlastnostech kaligrafických",
         "subtitleSuggest": "",
         "filename": "tri_nadani_105.md",
         "xhtml": "tri_nadani_105.xhtml"
@@ -2696,7 +2696,7 @@
         "xhtml": "tri_nadani_114.xhtml"
       },
       {
-        "titleSuggest": "5\\. Čest a sláva",
+        "titleSuggest": "5\\. Čest a sláva",
         "subtitleSuggest": "",
         "filename": "tri_nadani_115.md",
         "xhtml": "tri_nadani_115.xhtml"
@@ -2936,7 +2936,7 @@
         "xhtml": "tri_nadani_154.xhtml"
       },
       {
-        "titleSuggest": "Zápis a výslovnost čínských slov",
+        "titleSuggest": "Zápis a výslovnost čínských slov",
         "subtitleSuggest": "",
         "filename": "tri_nadani_155.md",
         "xhtml": "tri_nadani_155.xhtml"
