@@ -1,5 +1,5 @@
 ---
-title: "Sikong Tu\_Dvacet čtyři básnío\_vlastnostech básnických"
+title: "Sikong Tu\_Dvacet čtyři básní o\_vlastnostech básnických"
 contentType: poetry
 ---
 
