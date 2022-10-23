@@ -1,5 +1,5 @@
 ---
-title: "Huang Yue\_Dvacet čtyři básnío\_vlastnostechmalířských"
+title: "Huang Yue\_Dvacet čtyři básnío\_vlastnostech malířských"
 contentType: poetry
 ---
 
